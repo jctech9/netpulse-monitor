@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-18T19:26:00Z",
+  "demo": true,
+  "incidents": [
+    {
+      "id": "inc_demo_open",
+      "monitor_id": "dns_edge",
+      "started_at": "2026-07-18T17:36:00Z",
+      "ended_at": null,
+      "cause": "Falha na resolução DNS",
+      "duration_seconds": null,
+      "status": "open",
+      "message": "Investigando indisponibilidade no resolvedor público."
+    },
+    {
+      "id": "inc_demo_resolved",
+      "monitor_id": "portal_publico",
+      "started_at": "2026-07-18T02:46:00Z",
+      "ended_at": "2026-07-18T03:20:00Z",
+      "cause": "Tempo limite excedido",
+      "duration_seconds": 2040,
+      "status": "resolved",
+      "message": "Oscilação resolvida; serviço normalizado."
+    }
+  ]
+}

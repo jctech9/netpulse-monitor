@@ -1,0 +1,4357 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-18T19:26:00Z",
+  "demo": true,
+  "monitors": {
+    "portal_publico": {
+      "raw": [
+        {
+          "timestamp": "2026-07-17T19:36:00Z",
+          "status": "up",
+          "response_ms": 118.0
+        },
+        {
+          "timestamp": "2026-07-17T19:46:00Z",
+          "status": "up",
+          "response_ms": 123.44
+        },
+        {
+          "timestamp": "2026-07-17T19:56:00Z",
+          "status": "up",
+          "response_ms": 128.85
+        },
+        {
+          "timestamp": "2026-07-17T20:06:00Z",
+          "status": "up",
+          "response_ms": 134.2
+        },
+        {
+          "timestamp": "2026-07-17T20:16:00Z",
+          "status": "up",
+          "response_ms": 139.46
+        },
+        {
+          "timestamp": "2026-07-17T20:26:00Z",
+          "status": "up",
+          "response_ms": 129.6
+        },
+        {
+          "timestamp": "2026-07-17T20:36:00Z",
+          "status": "up",
+          "response_ms": 134.6
+        },
+        {
+          "timestamp": "2026-07-17T20:46:00Z",
+          "status": "up",
+          "response_ms": 139.44
+        },
+        {
+          "timestamp": "2026-07-17T20:56:00Z",
+          "status": "up",
+          "response_ms": 144.08
+        },
+        {
+          "timestamp": "2026-07-17T21:06:00Z",
+          "status": "up",
+          "response_ms": 148.51
+        },
+        {
+          "timestamp": "2026-07-17T21:16:00Z",
+          "status": "up",
+          "response_ms": 137.72
+        },
+        {
+          "timestamp": "2026-07-17T21:26:00Z",
+          "status": "up",
+          "response_ms": 141.68
+        },
+        {
+          "timestamp": "2026-07-17T21:36:00Z",
+          "status": "up",
+          "response_ms": 145.38
+        },
+        {
+          "timestamp": "2026-07-17T21:46:00Z",
+          "status": "up",
+          "response_ms": 148.82
+        },
+        {
+          "timestamp": "2026-07-17T21:56:00Z",
+          "status": "up",
+          "response_ms": 152.0
+        },
+        {
+          "timestamp": "2026-07-17T22:06:00Z",
+          "status": "up",
+          "response_ms": 139.9
+        },
+        {
+          "timestamp": "2026-07-17T22:16:00Z",
+          "status": "up",
+          "response_ms": 142.53
+        },
+        {
+          "timestamp": "2026-07-17T22:26:00Z",
+          "status": "up",
+          "response_ms": 144.9
+        },
+        {
+          "timestamp": "2026-07-17T22:36:00Z",
+          "status": "up",
+          "response_ms": 147.0
+        },
+        {
+          "timestamp": "2026-07-17T22:46:00Z",
+          "status": "up",
+          "response_ms": 148.87
+        },
+        {
+          "timestamp": "2026-07-17T22:56:00Z",
+          "status": "up",
+          "response_ms": 135.49
+        },
+        {
+          "timestamp": "2026-07-17T23:06:00Z",
+          "status": "up",
+          "response_ms": 136.91
+        },
+        {
+          "timestamp": "2026-07-17T23:16:00Z",
+          "status": "up",
+          "response_ms": 138.12
+        },
+        {
+          "timestamp": "2026-07-17T23:26:00Z",
+          "status": "up",
+          "response_ms": 139.17
+        },
+        {
+          "timestamp": "2026-07-17T23:36:00Z",
+          "status": "up",
+          "response_ms": 140.06
+        },
+        {
+          "timestamp": "2026-07-17T23:46:00Z",
+          "status": "up",
+          "response_ms": 125.83
+        },
+        {
+          "timestamp": "2026-07-17T23:56:00Z",
+          "status": "up",
+          "response_ms": 126.5
+        },
+        {
+          "timestamp": "2026-07-18T00:06:00Z",
+          "status": "up",
+          "response_ms": 127.1
+        },
+        {
+          "timestamp": "2026-07-18T00:16:00Z",
+          "status": "up",
+          "response_ms": 127.67
+        },
+        {
+          "timestamp": "2026-07-18T00:26:00Z",
+          "status": "up",
+          "response_ms": 128.23
+        },
+        {
+          "timestamp": "2026-07-18T00:36:00Z",
+          "status": "up",
+          "response_ms": 113.81
+        },
+        {
+          "timestamp": "2026-07-18T00:46:00Z",
+          "status": "up",
+          "response_ms": 114.44
+        },
+        {
+          "timestamp": "2026-07-18T00:56:00Z",
+          "status": "up",
+          "response_ms": 115.15
+        },
+        {
+          "timestamp": "2026-07-18T01:06:00Z",
+          "status": "up",
+          "response_ms": 115.97
+        },
+        {
+          "timestamp": "2026-07-18T01:16:00Z",
+          "status": "up",
+          "response_ms": 116.93
+        },
+        {
+          "timestamp": "2026-07-18T01:26:00Z",
+          "status": "up",
+          "response_ms": 103.05
+        },
+        {
+          "timestamp": "2026-07-18T01:36:00Z",
+          "status": "up",
+          "response_ms": 104.35
+        },
+        {
+          "timestamp": "2026-07-18T01:46:00Z",
+          "status": "up",
+          "response_ms": 105.86
+        },
+        {
+          "timestamp": "2026-07-18T01:56:00Z",
+          "status": "up",
+          "response_ms": 107.59
+        },
+        {
+          "timestamp": "2026-07-18T02:06:00Z",
+          "status": "up",
+          "response_ms": 109.56
+        },
+        {
+          "timestamp": "2026-07-18T02:16:00Z",
+          "status": "up",
+          "response_ms": 96.79
+        },
+        {
+          "timestamp": "2026-07-18T02:26:00Z",
+          "status": "up",
+          "response_ms": 99.27
+        },
+        {
+          "timestamp": "2026-07-18T02:36:00Z",
+          "status": "up",
+          "response_ms": 102.02
+        },
+        {
+          "timestamp": "2026-07-18T02:46:00Z",
+          "status": "up",
+          "response_ms": 105.05
+        },
+        {
+          "timestamp": "2026-07-18T02:56:00Z",
+          "status": "up",
+          "response_ms": 108.34
+        },
+        {
+          "timestamp": "2026-07-18T03:06:00Z",
+          "status": "up",
+          "response_ms": 96.9
+        },
+        {
+          "timestamp": "2026-07-18T03:16:00Z",
+          "status": "up",
+          "response_ms": 100.73
+        },
+        {
+          "timestamp": "2026-07-18T03:26:00Z",
+          "status": "up",
+          "response_ms": 104.8
+        },
+        {
+          "timestamp": "2026-07-18T03:36:00Z",
+          "status": "up",
+          "response_ms": 109.11
+        },
+        {
+          "timestamp": "2026-07-18T03:46:00Z",
+          "status": "up",
+          "response_ms": 113.64
+        },
+        {
+          "timestamp": "2026-07-18T03:56:00Z",
+          "status": "up",
+          "response_ms": 103.37
+        },
+        {
+          "timestamp": "2026-07-18T04:06:00Z",
+          "status": "up",
+          "response_ms": 108.28
+        },
+        {
+          "timestamp": "2026-07-18T04:16:00Z",
+          "status": "up",
+          "response_ms": 113.35
+        },
+        {
+          "timestamp": "2026-07-18T04:26:00Z",
+          "status": "up",
+          "response_ms": 118.55
+        },
+        {
+          "timestamp": "2026-07-18T04:36:00Z",
+          "status": "up",
+          "response_ms": 123.85
+        },
+        {
+          "timestamp": "2026-07-18T04:46:00Z",
+          "status": "up",
+          "response_ms": 114.23
+        },
+        {
+          "timestamp": "2026-07-18T04:56:00Z",
+          "status": "up",
+          "response_ms": 119.66
+        },
+        {
+          "timestamp": "2026-07-18T05:06:00Z",
+          "status": "up",
+          "response_ms": 125.1
+        },
+        {
+          "timestamp": "2026-07-18T05:16:00Z",
+          "status": "up",
+          "response_ms": 130.53
+        },
+        {
+          "timestamp": "2026-07-18T05:26:00Z",
+          "status": "up",
+          "response_ms": 135.92
+        },
+        {
+          "timestamp": "2026-07-18T05:36:00Z",
+          "status": "up",
+          "response_ms": 126.23
+        },
+        {
+          "timestamp": "2026-07-18T05:46:00Z",
+          "status": "up",
+          "response_ms": 131.44
+        },
+        {
+          "timestamp": "2026-07-18T05:56:00Z",
+          "status": "up",
+          "response_ms": 136.53
+        },
+        {
+          "timestamp": "2026-07-18T06:06:00Z",
+          "status": "up",
+          "response_ms": 141.45
+        },
+        {
+          "timestamp": "2026-07-18T06:16:00Z",
+          "status": "up",
+          "response_ms": 146.2
+        },
+        {
+          "timestamp": "2026-07-18T06:26:00Z",
+          "status": "up",
+          "response_ms": 135.75
+        },
+        {
+          "timestamp": "2026-07-18T06:36:00Z",
+          "status": "up",
+          "response_ms": 140.08
+        },
+        {
+          "timestamp": "2026-07-18T06:46:00Z",
+          "status": "up",
+          "response_ms": 144.18
+        },
+        {
+          "timestamp": "2026-07-18T06:56:00Z",
+          "status": "up",
+          "response_ms": 148.03
+        },
+        {
+          "timestamp": "2026-07-18T07:06:00Z",
+          "status": "up",
+          "response_ms": 151.62
+        },
+        {
+          "timestamp": "2026-07-18T07:16:00Z",
+          "status": "up",
+          "response_ms": 139.94
+        },
+        {
+          "timestamp": "2026-07-18T07:26:00Z",
+          "status": "up",
+          "response_ms": 142.99
+        },
+        {
+          "timestamp": "2026-07-18T07:36:00Z",
+          "status": "up",
+          "response_ms": 145.77
+        },
+        {
+          "timestamp": "2026-07-18T07:46:00Z",
+          "status": "up",
+          "response_ms": 148.28
+        },
+        {
+          "timestamp": "2026-07-18T07:56:00Z",
+          "status": "up",
+          "response_ms": 150.53
+        },
+        {
+          "timestamp": "2026-07-18T08:06:00Z",
+          "status": "up",
+          "response_ms": 137.52
+        },
+        {
+          "timestamp": "2026-07-18T08:16:00Z",
+          "status": "up",
+          "response_ms": 139.28
+        },
+        {
+          "timestamp": "2026-07-18T08:26:00Z",
+          "status": "up",
+          "response_ms": 140.8
+        },
+        {
+          "timestamp": "2026-07-18T08:36:00Z",
+          "status": "up",
+          "response_ms": 142.13
+        },
+        {
+          "timestamp": "2026-07-18T08:46:00Z",
+          "status": "up",
+          "response_ms": 143.26
+        },
+        {
+          "timestamp": "2026-07-18T08:56:00Z",
+          "status": "up",
+          "response_ms": 129.23
+        },
+        {
+          "timestamp": "2026-07-18T09:06:00Z",
+          "status": "up",
+          "response_ms": 130.07
+        },
+        {
+          "timestamp": "2026-07-18T09:16:00Z",
+          "status": "up",
+          "response_ms": 130.79
+        },
+        {
+          "timestamp": "2026-07-18T09:26:00Z",
+          "status": "up",
+          "response_ms": 131.43
+        },
+        {
+          "timestamp": "2026-07-18T09:36:00Z",
+          "status": "up",
+          "response_ms": 132.01
+        },
+        {
+          "timestamp": "2026-07-18T09:46:00Z",
+          "status": "up",
+          "response_ms": 117.57
+        },
+        {
+          "timestamp": "2026-07-18T09:56:00Z",
+          "status": "up",
+          "response_ms": 118.13
+        },
+        {
+          "timestamp": "2026-07-18T10:06:00Z",
+          "status": "up",
+          "response_ms": 118.73
+        },
+        {
+          "timestamp": "2026-07-18T10:16:00Z",
+          "status": "up",
+          "response_ms": 119.39
+        },
+        {
+          "timestamp": "2026-07-18T10:26:00Z",
+          "status": "up",
+          "response_ms": 120.15
+        },
+        {
+          "timestamp": "2026-07-18T10:36:00Z",
+          "status": "up",
+          "response_ms": 106.03
+        },
+        {
+          "timestamp": "2026-07-18T10:46:00Z",
+          "status": "up",
+          "response_ms": 107.06
+        },
+        {
+          "timestamp": "2026-07-18T10:56:00Z",
+          "status": "up",
+          "response_ms": 108.26
+        },
+        {
+          "timestamp": "2026-07-18T11:06:00Z",
+          "status": "up",
+          "response_ms": 109.65
+        },
+        {
+          "timestamp": "2026-07-18T11:16:00Z",
+          "status": "up",
+          "response_ms": 111.26
+        },
+        {
+          "timestamp": "2026-07-18T11:26:00Z",
+          "status": "up",
+          "response_ms": 98.1
+        },
+        {
+          "timestamp": "2026-07-18T11:36:00Z",
+          "status": "up",
+          "response_ms": 100.18
+        },
+        {
+          "timestamp": "2026-07-18T11:46:00Z",
+          "status": "up",
+          "response_ms": 102.52
+        },
+        {
+          "timestamp": "2026-07-18T11:56:00Z",
+          "status": "up",
+          "response_ms": 105.13
+        },
+        {
+          "timestamp": "2026-07-18T12:06:00Z",
+          "status": "up",
+          "response_ms": 108.0
+        },
+        {
+          "timestamp": "2026-07-18T12:16:00Z",
+          "status": "up",
+          "response_ms": 96.15
+        },
+        {
+          "timestamp": "2026-07-18T12:26:00Z",
+          "status": "up",
+          "response_ms": 99.56
+        },
+        {
+          "timestamp": "2026-07-18T12:36:00Z",
+          "status": "up",
+          "response_ms": 103.24
+        },
+        {
+          "timestamp": "2026-07-18T12:46:00Z",
+          "status": "up",
+          "response_ms": 107.18
+        },
+        {
+          "timestamp": "2026-07-18T12:56:00Z",
+          "status": "up",
+          "response_ms": 111.36
+        },
+        {
+          "timestamp": "2026-07-18T13:06:00Z",
+          "status": "up",
+          "response_ms": 100.77
+        },
+        {
+          "timestamp": "2026-07-18T13:16:00Z",
+          "status": "up",
+          "response_ms": 105.39
+        },
+        {
+          "timestamp": "2026-07-18T13:26:00Z",
+          "status": "up",
+          "response_ms": 110.21
+        },
+        {
+          "timestamp": "2026-07-18T13:36:00Z",
+          "status": "up",
+          "response_ms": 115.2
+        },
+        {
+          "timestamp": "2026-07-18T13:46:00Z",
+          "status": "up",
+          "response_ms": 120.33
+        },
+        {
+          "timestamp": "2026-07-18T13:56:00Z",
+          "status": "up",
+          "response_ms": 110.58
+        },
+        {
+          "timestamp": "2026-07-18T14:06:00Z",
+          "status": "up",
+          "response_ms": 115.92
+        },
+        {
+          "timestamp": "2026-07-18T14:16:00Z",
+          "status": "up",
+          "response_ms": 121.32
+        },
+        {
+          "timestamp": "2026-07-18T14:26:00Z",
+          "status": "up",
+          "response_ms": 126.76
+        },
+        {
+          "timestamp": "2026-07-18T14:36:00Z",
+          "status": "up",
+          "response_ms": 132.2
+        },
+        {
+          "timestamp": "2026-07-18T14:46:00Z",
+          "status": "up",
+          "response_ms": 122.62
+        },
+        {
+          "timestamp": "2026-07-18T14:56:00Z",
+          "status": "up",
+          "response_ms": 127.97
+        },
+        {
+          "timestamp": "2026-07-18T15:06:00Z",
+          "status": "up",
+          "response_ms": 133.24
+        },
+        {
+          "timestamp": "2026-07-18T15:16:00Z",
+          "status": "up",
+          "response_ms": 138.4
+        },
+        {
+          "timestamp": "2026-07-18T15:26:00Z",
+          "status": "up",
+          "response_ms": 143.42
+        },
+        {
+          "timestamp": "2026-07-18T15:36:00Z",
+          "status": "up",
+          "response_ms": 133.27
+        },
+        {
+          "timestamp": "2026-07-18T15:46:00Z",
+          "status": "up",
+          "response_ms": 137.93
+        },
+        {
+          "timestamp": "2026-07-18T15:56:00Z",
+          "status": "up",
+          "response_ms": 142.38
+        },
+        {
+          "timestamp": "2026-07-18T16:06:00Z",
+          "status": "up",
+          "response_ms": 146.61
+        },
+        {
+          "timestamp": "2026-07-18T16:16:00Z",
+          "status": "up",
+          "response_ms": 150.59
+        },
+        {
+          "timestamp": "2026-07-18T16:26:00Z",
+          "status": "up",
+          "response_ms": 139.33
+        },
+        {
+          "timestamp": "2026-07-18T16:36:00Z",
+          "status": "up",
+          "response_ms": 142.79
+        },
+        {
+          "timestamp": "2026-07-18T16:46:00Z",
+          "status": "up",
+          "response_ms": 145.99
+        },
+        {
+          "timestamp": "2026-07-18T16:56:00Z",
+          "status": "up",
+          "response_ms": 148.92
+        },
+        {
+          "timestamp": "2026-07-18T17:06:00Z",
+          "status": "up",
+          "response_ms": 151.58
+        },
+        {
+          "timestamp": "2026-07-18T17:16:00Z",
+          "status": "up",
+          "response_ms": 138.97
+        },
+        {
+          "timestamp": "2026-07-18T17:26:00Z",
+          "status": "up",
+          "response_ms": 141.1
+        },
+        {
+          "timestamp": "2026-07-18T17:36:00Z",
+          "status": "up",
+          "response_ms": 142.99
+        },
+        {
+          "timestamp": "2026-07-18T17:46:00Z",
+          "status": "up",
+          "response_ms": 144.64
+        },
+        {
+          "timestamp": "2026-07-18T17:56:00Z",
+          "status": "up",
+          "response_ms": 146.07
+        },
+        {
+          "timestamp": "2026-07-18T18:06:00Z",
+          "status": "up",
+          "response_ms": 132.31
+        },
+        {
+          "timestamp": "2026-07-18T18:16:00Z",
+          "status": "up",
+          "response_ms": 133.36
+        },
+        {
+          "timestamp": "2026-07-18T18:26:00Z",
+          "status": "up",
+          "response_ms": 134.27
+        },
+        {
+          "timestamp": "2026-07-18T18:36:00Z",
+          "status": "up",
+          "response_ms": 135.05
+        },
+        {
+          "timestamp": "2026-07-18T18:46:00Z",
+          "status": "up",
+          "response_ms": 135.73
+        },
+        {
+          "timestamp": "2026-07-18T18:56:00Z",
+          "status": "up",
+          "response_ms": 121.34
+        },
+        {
+          "timestamp": "2026-07-18T19:06:00Z",
+          "status": "up",
+          "response_ms": 121.91
+        },
+        {
+          "timestamp": "2026-07-18T19:16:00Z",
+          "status": "up",
+          "response_ms": 122.47
+        },
+        {
+          "timestamp": "2026-07-18T19:26:00Z",
+          "status": "up",
+          "response_ms": 123.04
+        }
+      ],
+      "hourly": []
+    },
+    "api_catalogo": {
+      "raw": [
+        {
+          "timestamp": "2026-07-17T19:36:00Z",
+          "status": "up",
+          "response_ms": 280.44
+        },
+        {
+          "timestamp": "2026-07-17T19:46:00Z",
+          "status": "up",
+          "response_ms": 285.08
+        },
+        {
+          "timestamp": "2026-07-17T19:56:00Z",
+          "status": "up",
+          "response_ms": 289.51
+        },
+        {
+          "timestamp": "2026-07-17T20:06:00Z",
+          "status": "up",
+          "response_ms": 293.72
+        },
+        {
+          "timestamp": "2026-07-17T20:16:00Z",
+          "status": "up",
+          "response_ms": 297.68
+        },
+        {
+          "timestamp": "2026-07-17T20:26:00Z",
+          "status": "up",
+          "response_ms": 286.38
+        },
+        {
+          "timestamp": "2026-07-17T20:36:00Z",
+          "status": "up",
+          "response_ms": 289.82
+        },
+        {
+          "timestamp": "2026-07-17T20:46:00Z",
+          "status": "up",
+          "response_ms": 293.0
+        },
+        {
+          "timestamp": "2026-07-17T20:56:00Z",
+          "status": "up",
+          "response_ms": 295.9
+        },
+        {
+          "timestamp": "2026-07-17T21:06:00Z",
+          "status": "up",
+          "response_ms": 298.53
+        },
+        {
+          "timestamp": "2026-07-17T21:16:00Z",
+          "status": "up",
+          "response_ms": 285.9
+        },
+        {
+          "timestamp": "2026-07-17T21:26:00Z",
+          "status": "up",
+          "response_ms": 288.0
+        },
+        {
+          "timestamp": "2026-07-17T21:36:00Z",
+          "status": "up",
+          "response_ms": 289.87
+        },
+        {
+          "timestamp": "2026-07-17T21:46:00Z",
+          "status": "up",
+          "response_ms": 291.49
+        },
+        {
+          "timestamp": "2026-07-17T21:56:00Z",
+          "status": "up",
+          "response_ms": 292.91
+        },
+        {
+          "timestamp": "2026-07-17T22:06:00Z",
+          "status": "up",
+          "response_ms": 279.12
+        },
+        {
+          "timestamp": "2026-07-17T22:16:00Z",
+          "status": "up",
+          "response_ms": 280.17
+        },
+        {
+          "timestamp": "2026-07-17T22:26:00Z",
+          "status": "up",
+          "response_ms": 281.06
+        },
+        {
+          "timestamp": "2026-07-17T22:36:00Z",
+          "status": "up",
+          "response_ms": 281.83
+        },
+        {
+          "timestamp": "2026-07-17T22:46:00Z",
+          "status": "up",
+          "response_ms": 282.5
+        },
+        {
+          "timestamp": "2026-07-17T22:56:00Z",
+          "status": "up",
+          "response_ms": 268.1
+        },
+        {
+          "timestamp": "2026-07-17T23:06:00Z",
+          "status": "up",
+          "response_ms": 268.67
+        },
+        {
+          "timestamp": "2026-07-17T23:16:00Z",
+          "status": "up",
+          "response_ms": 269.23
+        },
+        {
+          "timestamp": "2026-07-17T23:26:00Z",
+          "status": "up",
+          "response_ms": 269.81
+        },
+        {
+          "timestamp": "2026-07-17T23:36:00Z",
+          "status": "up",
+          "response_ms": 270.44
+        },
+        {
+          "timestamp": "2026-07-17T23:46:00Z",
+          "status": "up",
+          "response_ms": 256.15
+        },
+        {
+          "timestamp": "2026-07-17T23:56:00Z",
+          "status": "up",
+          "response_ms": 256.97
+        },
+        {
+          "timestamp": "2026-07-18T00:06:00Z",
+          "status": "up",
+          "response_ms": 257.93
+        },
+        {
+          "timestamp": "2026-07-18T00:16:00Z",
+          "status": "up",
+          "response_ms": 259.05
+        },
+        {
+          "timestamp": "2026-07-18T00:26:00Z",
+          "status": "up",
+          "response_ms": 260.35
+        },
+        {
+          "timestamp": "2026-07-18T00:36:00Z",
+          "status": "up",
+          "response_ms": 246.86
+        },
+        {
+          "timestamp": "2026-07-18T00:46:00Z",
+          "status": "up",
+          "response_ms": 248.59
+        },
+        {
+          "timestamp": "2026-07-18T00:56:00Z",
+          "status": "up",
+          "response_ms": 250.56
+        },
+        {
+          "timestamp": "2026-07-18T01:06:00Z",
+          "status": "up",
+          "response_ms": 252.79
+        },
+        {
+          "timestamp": "2026-07-18T01:16:00Z",
+          "status": "up",
+          "response_ms": 255.27
+        },
+        {
+          "timestamp": "2026-07-18T01:26:00Z",
+          "status": "up",
+          "response_ms": 243.02
+        },
+        {
+          "timestamp": "2026-07-18T01:36:00Z",
+          "status": "up",
+          "response_ms": 246.05
+        },
+        {
+          "timestamp": "2026-07-18T01:46:00Z",
+          "status": "up",
+          "response_ms": 249.34
+        },
+        {
+          "timestamp": "2026-07-18T01:56:00Z",
+          "status": "up",
+          "response_ms": 252.9
+        },
+        {
+          "timestamp": "2026-07-18T02:06:00Z",
+          "status": "up",
+          "response_ms": 256.73
+        },
+        {
+          "timestamp": "2026-07-18T02:16:00Z",
+          "status": "up",
+          "response_ms": 245.8
+        },
+        {
+          "timestamp": "2026-07-18T02:26:00Z",
+          "status": "up",
+          "response_ms": 250.11
+        },
+        {
+          "timestamp": "2026-07-18T02:36:00Z",
+          "status": "up",
+          "response_ms": 254.64
+        },
+        {
+          "timestamp": "2026-07-18T02:46:00Z",
+          "status": "up",
+          "response_ms": 259.37
+        },
+        {
+          "timestamp": "2026-07-18T02:56:00Z",
+          "status": "up",
+          "response_ms": 264.28
+        },
+        {
+          "timestamp": "2026-07-18T03:06:00Z",
+          "status": "up",
+          "response_ms": 254.35
+        },
+        {
+          "timestamp": "2026-07-18T03:16:00Z",
+          "status": "up",
+          "response_ms": 259.55
+        },
+        {
+          "timestamp": "2026-07-18T03:26:00Z",
+          "status": "up",
+          "response_ms": 264.85
+        },
+        {
+          "timestamp": "2026-07-18T03:36:00Z",
+          "status": "up",
+          "response_ms": 270.23
+        },
+        {
+          "timestamp": "2026-07-18T03:46:00Z",
+          "status": "up",
+          "response_ms": 275.66
+        },
+        {
+          "timestamp": "2026-07-18T03:56:00Z",
+          "status": "up",
+          "response_ms": 266.1
+        },
+        {
+          "timestamp": "2026-07-18T04:06:00Z",
+          "status": "up",
+          "response_ms": 271.53
+        },
+        {
+          "timestamp": "2026-07-18T04:16:00Z",
+          "status": "up",
+          "response_ms": 276.92
+        },
+        {
+          "timestamp": "2026-07-18T04:26:00Z",
+          "status": "up",
+          "response_ms": 282.23
+        },
+        {
+          "timestamp": "2026-07-18T04:36:00Z",
+          "status": "up",
+          "response_ms": 287.44
+        },
+        {
+          "timestamp": "2026-07-18T04:46:00Z",
+          "status": "up",
+          "response_ms": 277.53
+        },
+        {
+          "timestamp": "2026-07-18T04:56:00Z",
+          "status": "up",
+          "response_ms": 282.45
+        },
+        {
+          "timestamp": "2026-07-18T05:06:00Z",
+          "status": "up",
+          "response_ms": 287.2
+        },
+        {
+          "timestamp": "2026-07-18T05:16:00Z",
+          "status": "up",
+          "response_ms": 291.75
+        },
+        {
+          "timestamp": "2026-07-18T05:26:00Z",
+          "status": "up",
+          "response_ms": 296.08
+        },
+        {
+          "timestamp": "2026-07-18T05:36:00Z",
+          "status": "up",
+          "response_ms": 285.18
+        },
+        {
+          "timestamp": "2026-07-18T05:46:00Z",
+          "status": "up",
+          "response_ms": 289.03
+        },
+        {
+          "timestamp": "2026-07-18T05:56:00Z",
+          "status": "up",
+          "response_ms": 292.62
+        },
+        {
+          "timestamp": "2026-07-18T06:06:00Z",
+          "status": "up",
+          "response_ms": 295.94
+        },
+        {
+          "timestamp": "2026-07-18T06:16:00Z",
+          "status": "up",
+          "response_ms": 298.99
+        },
+        {
+          "timestamp": "2026-07-18T06:26:00Z",
+          "status": "up",
+          "response_ms": 286.77
+        },
+        {
+          "timestamp": "2026-07-18T06:36:00Z",
+          "status": "up",
+          "response_ms": 289.28
+        },
+        {
+          "timestamp": "2026-07-18T06:46:00Z",
+          "status": "up",
+          "response_ms": 291.53
+        },
+        {
+          "timestamp": "2026-07-18T06:56:00Z",
+          "status": "up",
+          "response_ms": 293.52
+        },
+        {
+          "timestamp": "2026-07-18T07:06:00Z",
+          "status": "up",
+          "response_ms": 295.28
+        },
+        {
+          "timestamp": "2026-07-18T07:16:00Z",
+          "status": "up",
+          "response_ms": 281.8
+        },
+        {
+          "timestamp": "2026-07-18T07:26:00Z",
+          "status": "up",
+          "response_ms": 283.13
+        },
+        {
+          "timestamp": "2026-07-18T07:36:00Z",
+          "status": "up",
+          "response_ms": 284.26
+        },
+        {
+          "timestamp": "2026-07-18T07:46:00Z",
+          "status": "up",
+          "response_ms": 285.23
+        },
+        {
+          "timestamp": "2026-07-18T07:56:00Z",
+          "status": "up",
+          "response_ms": 286.07
+        },
+        {
+          "timestamp": "2026-07-18T08:06:00Z",
+          "status": "up",
+          "response_ms": 271.79
+        },
+        {
+          "timestamp": "2026-07-18T08:16:00Z",
+          "status": "up",
+          "response_ms": 272.43
+        },
+        {
+          "timestamp": "2026-07-18T08:26:00Z",
+          "status": "up",
+          "response_ms": 273.01
+        },
+        {
+          "timestamp": "2026-07-18T08:36:00Z",
+          "status": "up",
+          "response_ms": 273.57
+        },
+        {
+          "timestamp": "2026-07-18T08:46:00Z",
+          "status": "up",
+          "response_ms": 274.13
+        },
+        {
+          "timestamp": "2026-07-18T08:56:00Z",
+          "status": "up",
+          "response_ms": 259.73
+        },
+        {
+          "timestamp": "2026-07-18T09:06:00Z",
+          "status": "up",
+          "response_ms": 260.39
+        },
+        {
+          "timestamp": "2026-07-18T09:16:00Z",
+          "status": "up",
+          "response_ms": 261.15
+        },
+        {
+          "timestamp": "2026-07-18T09:26:00Z",
+          "status": "up",
+          "response_ms": 262.03
+        },
+        {
+          "timestamp": "2026-07-18T09:36:00Z",
+          "status": "up",
+          "response_ms": 263.06
+        },
+        {
+          "timestamp": "2026-07-18T09:46:00Z",
+          "status": "up",
+          "response_ms": 249.26
+        },
+        {
+          "timestamp": "2026-07-18T09:56:00Z",
+          "status": "up",
+          "response_ms": 250.65
+        },
+        {
+          "timestamp": "2026-07-18T10:06:00Z",
+          "status": "up",
+          "response_ms": 252.26
+        },
+        {
+          "timestamp": "2026-07-18T10:16:00Z",
+          "status": "up",
+          "response_ms": 254.1
+        },
+        {
+          "timestamp": "2026-07-18T10:26:00Z",
+          "status": "degraded",
+          "response_ms": 646.1800000000001
+        },
+        {
+          "timestamp": "2026-07-18T10:36:00Z",
+          "status": "degraded",
+          "response_ms": 633.52
+        },
+        {
+          "timestamp": "2026-07-18T10:46:00Z",
+          "status": "up",
+          "response_ms": 246.13
+        },
+        {
+          "timestamp": "2026-07-18T10:56:00Z",
+          "status": "up",
+          "response_ms": 249.0
+        },
+        {
+          "timestamp": "2026-07-18T11:06:00Z",
+          "status": "up",
+          "response_ms": 252.15
+        },
+        {
+          "timestamp": "2026-07-18T11:16:00Z",
+          "status": "up",
+          "response_ms": 255.56
+        },
+        {
+          "timestamp": "2026-07-18T11:26:00Z",
+          "status": "up",
+          "response_ms": 244.24
+        },
+        {
+          "timestamp": "2026-07-18T11:36:00Z",
+          "status": "up",
+          "response_ms": 248.18
+        },
+        {
+          "timestamp": "2026-07-18T11:46:00Z",
+          "status": "up",
+          "response_ms": 252.36
+        },
+        {
+          "timestamp": "2026-07-18T11:56:00Z",
+          "status": "up",
+          "response_ms": 256.77
+        },
+        {
+          "timestamp": "2026-07-18T12:06:00Z",
+          "status": "up",
+          "response_ms": 261.39
+        },
+        {
+          "timestamp": "2026-07-18T12:16:00Z",
+          "status": "up",
+          "response_ms": 251.21
+        },
+        {
+          "timestamp": "2026-07-18T12:26:00Z",
+          "status": "up",
+          "response_ms": 256.2
+        },
+        {
+          "timestamp": "2026-07-18T12:36:00Z",
+          "status": "up",
+          "response_ms": 261.33
+        },
+        {
+          "timestamp": "2026-07-18T12:46:00Z",
+          "status": "up",
+          "response_ms": 266.58
+        },
+        {
+          "timestamp": "2026-07-18T12:56:00Z",
+          "status": "up",
+          "response_ms": 271.92
+        },
+        {
+          "timestamp": "2026-07-18T13:06:00Z",
+          "status": "up",
+          "response_ms": 262.32
+        },
+        {
+          "timestamp": "2026-07-18T13:16:00Z",
+          "status": "up",
+          "response_ms": 267.76
+        },
+        {
+          "timestamp": "2026-07-18T13:26:00Z",
+          "status": "up",
+          "response_ms": 273.2
+        },
+        {
+          "timestamp": "2026-07-18T13:36:00Z",
+          "status": "up",
+          "response_ms": 278.62
+        },
+        {
+          "timestamp": "2026-07-18T13:46:00Z",
+          "status": "up",
+          "response_ms": 283.97
+        },
+        {
+          "timestamp": "2026-07-18T13:56:00Z",
+          "status": "up",
+          "response_ms": 274.24
+        },
+        {
+          "timestamp": "2026-07-18T14:06:00Z",
+          "status": "up",
+          "response_ms": 279.4
+        },
+        {
+          "timestamp": "2026-07-18T14:16:00Z",
+          "status": "up",
+          "response_ms": 284.42
+        },
+        {
+          "timestamp": "2026-07-18T14:26:00Z",
+          "status": "up",
+          "response_ms": 289.27
+        },
+        {
+          "timestamp": "2026-07-18T14:36:00Z",
+          "status": "up",
+          "response_ms": 293.93
+        },
+        {
+          "timestamp": "2026-07-18T14:46:00Z",
+          "status": "up",
+          "response_ms": 283.38
+        },
+        {
+          "timestamp": "2026-07-18T14:56:00Z",
+          "status": "up",
+          "response_ms": 287.61
+        },
+        {
+          "timestamp": "2026-07-18T15:06:00Z",
+          "status": "up",
+          "response_ms": 291.59
+        },
+        {
+          "timestamp": "2026-07-18T15:16:00Z",
+          "status": "up",
+          "response_ms": 295.33
+        },
+        {
+          "timestamp": "2026-07-18T15:26:00Z",
+          "status": "up",
+          "response_ms": 298.79
+        },
+        {
+          "timestamp": "2026-07-18T15:36:00Z",
+          "status": "up",
+          "response_ms": 286.99
+        },
+        {
+          "timestamp": "2026-07-18T15:46:00Z",
+          "status": "up",
+          "response_ms": 289.92
+        },
+        {
+          "timestamp": "2026-07-18T15:56:00Z",
+          "status": "up",
+          "response_ms": 292.58
+        },
+        {
+          "timestamp": "2026-07-18T16:06:00Z",
+          "status": "up",
+          "response_ms": 294.97
+        },
+        {
+          "timestamp": "2026-07-18T16:16:00Z",
+          "status": "up",
+          "response_ms": 297.1
+        },
+        {
+          "timestamp": "2026-07-18T16:26:00Z",
+          "status": "up",
+          "response_ms": 283.99
+        },
+        {
+          "timestamp": "2026-07-18T16:36:00Z",
+          "status": "up",
+          "response_ms": 285.64
+        },
+        {
+          "timestamp": "2026-07-18T16:46:00Z",
+          "status": "up",
+          "response_ms": 287.07
+        },
+        {
+          "timestamp": "2026-07-18T16:56:00Z",
+          "status": "up",
+          "response_ms": 288.31
+        },
+        {
+          "timestamp": "2026-07-18T17:06:00Z",
+          "status": "up",
+          "response_ms": 289.36
+        },
+        {
+          "timestamp": "2026-07-18T17:16:00Z",
+          "status": "up",
+          "response_ms": 275.27
+        },
+        {
+          "timestamp": "2026-07-18T17:26:00Z",
+          "status": "up",
+          "response_ms": 276.05
+        },
+        {
+          "timestamp": "2026-07-18T17:36:00Z",
+          "status": "up",
+          "response_ms": 276.73
+        },
+        {
+          "timestamp": "2026-07-18T17:46:00Z",
+          "status": "up",
+          "response_ms": 277.34
+        },
+        {
+          "timestamp": "2026-07-18T17:56:00Z",
+          "status": "up",
+          "response_ms": 277.91
+        },
+        {
+          "timestamp": "2026-07-18T18:06:00Z",
+          "status": "up",
+          "response_ms": 263.47
+        },
+        {
+          "timestamp": "2026-07-18T18:16:00Z",
+          "status": "up",
+          "response_ms": 264.04
+        },
+        {
+          "timestamp": "2026-07-18T18:26:00Z",
+          "status": "up",
+          "response_ms": 264.67
+        },
+        {
+          "timestamp": "2026-07-18T18:36:00Z",
+          "status": "up",
+          "response_ms": 265.37
+        },
+        {
+          "timestamp": "2026-07-18T18:46:00Z",
+          "status": "up",
+          "response_ms": 266.18
+        },
+        {
+          "timestamp": "2026-07-18T18:56:00Z",
+          "status": "up",
+          "response_ms": 252.12
+        },
+        {
+          "timestamp": "2026-07-18T19:06:00Z",
+          "status": "up",
+          "response_ms": 253.22
+        },
+        {
+          "timestamp": "2026-07-18T19:16:00Z",
+          "status": "degraded",
+          "response_ms": 644.51
+        },
+        {
+          "timestamp": "2026-07-18T19:26:00Z",
+          "status": "degraded",
+          "response_ms": 645.99
+        }
+      ],
+      "hourly": []
+    },
+    "conteudo_docs": {
+      "raw": [
+        {
+          "timestamp": "2026-07-17T19:36:00Z",
+          "status": "up",
+          "response_ms": 105.0
+        },
+        {
+          "timestamp": "2026-07-17T19:46:00Z",
+          "status": "up",
+          "response_ms": 107.9
+        },
+        {
+          "timestamp": "2026-07-17T19:56:00Z",
+          "status": "up",
+          "response_ms": 110.53
+        },
+        {
+          "timestamp": "2026-07-17T20:06:00Z",
+          "status": "up",
+          "response_ms": 112.9
+        },
+        {
+          "timestamp": "2026-07-17T20:16:00Z",
+          "status": "up",
+          "response_ms": 115.0
+        },
+        {
+          "timestamp": "2026-07-17T20:26:00Z",
+          "status": "up",
+          "response_ms": 101.87
+        },
+        {
+          "timestamp": "2026-07-17T20:36:00Z",
+          "status": "up",
+          "response_ms": 103.49
+        },
+        {
+          "timestamp": "2026-07-17T20:46:00Z",
+          "status": "up",
+          "response_ms": 104.91
+        },
+        {
+          "timestamp": "2026-07-17T20:56:00Z",
+          "status": "up",
+          "response_ms": 106.12
+        },
+        {
+          "timestamp": "2026-07-17T21:06:00Z",
+          "status": "up",
+          "response_ms": 107.17
+        },
+        {
+          "timestamp": "2026-07-17T21:16:00Z",
+          "status": "up",
+          "response_ms": 93.06
+        },
+        {
+          "timestamp": "2026-07-17T21:26:00Z",
+          "status": "up",
+          "response_ms": 93.83
+        },
+        {
+          "timestamp": "2026-07-17T21:36:00Z",
+          "status": "up",
+          "response_ms": 94.5
+        },
+        {
+          "timestamp": "2026-07-17T21:46:00Z",
+          "status": "up",
+          "response_ms": 95.1
+        },
+        {
+          "timestamp": "2026-07-17T21:56:00Z",
+          "status": "up",
+          "response_ms": 95.67
+        },
+        {
+          "timestamp": "2026-07-17T22:06:00Z",
+          "status": "up",
+          "response_ms": 81.23
+        },
+        {
+          "timestamp": "2026-07-17T22:16:00Z",
+          "status": "up",
+          "response_ms": 81.81
+        },
+        {
+          "timestamp": "2026-07-17T22:26:00Z",
+          "status": "up",
+          "response_ms": 82.44
+        },
+        {
+          "timestamp": "2026-07-17T22:36:00Z",
+          "status": "up",
+          "response_ms": 83.15
+        },
+        {
+          "timestamp": "2026-07-17T22:46:00Z",
+          "status": "up",
+          "response_ms": 83.97
+        },
+        {
+          "timestamp": "2026-07-17T22:56:00Z",
+          "status": "up",
+          "response_ms": 69.93
+        },
+        {
+          "timestamp": "2026-07-17T23:06:00Z",
+          "status": "up",
+          "response_ms": 71.05
+        },
+        {
+          "timestamp": "2026-07-17T23:16:00Z",
+          "status": "up",
+          "response_ms": 72.35
+        },
+        {
+          "timestamp": "2026-07-17T23:26:00Z",
+          "status": "up",
+          "response_ms": 73.86
+        },
+        {
+          "timestamp": "2026-07-17T23:36:00Z",
+          "status": "up",
+          "response_ms": 75.59
+        },
+        {
+          "timestamp": "2026-07-17T23:46:00Z",
+          "status": "up",
+          "response_ms": 62.56
+        },
+        {
+          "timestamp": "2026-07-17T23:56:00Z",
+          "status": "up",
+          "response_ms": 64.79
+        },
+        {
+          "timestamp": "2026-07-18T00:06:00Z",
+          "status": "up",
+          "response_ms": 67.27
+        },
+        {
+          "timestamp": "2026-07-18T00:16:00Z",
+          "status": "up",
+          "response_ms": 70.02
+        },
+        {
+          "timestamp": "2026-07-18T00:26:00Z",
+          "status": "up",
+          "response_ms": 73.05
+        },
+        {
+          "timestamp": "2026-07-18T00:36:00Z",
+          "status": "up",
+          "response_ms": 61.34
+        },
+        {
+          "timestamp": "2026-07-18T00:46:00Z",
+          "status": "up",
+          "response_ms": 64.9
+        },
+        {
+          "timestamp": "2026-07-18T00:56:00Z",
+          "status": "up",
+          "response_ms": 68.73
+        },
+        {
+          "timestamp": "2026-07-18T01:06:00Z",
+          "status": "up",
+          "response_ms": 72.8
+        },
+        {
+          "timestamp": "2026-07-18T01:16:00Z",
+          "status": "up",
+          "response_ms": 77.11
+        },
+        {
+          "timestamp": "2026-07-18T01:26:00Z",
+          "status": "up",
+          "response_ms": 66.64
+        },
+        {
+          "timestamp": "2026-07-18T01:36:00Z",
+          "status": "up",
+          "response_ms": 71.37
+        },
+        {
+          "timestamp": "2026-07-18T01:46:00Z",
+          "status": "up",
+          "response_ms": 76.28
+        },
+        {
+          "timestamp": "2026-07-18T01:56:00Z",
+          "status": "up",
+          "response_ms": 81.35
+        },
+        {
+          "timestamp": "2026-07-18T02:06:00Z",
+          "status": "up",
+          "response_ms": 86.55
+        },
+        {
+          "timestamp": "2026-07-18T02:16:00Z",
+          "status": "up",
+          "response_ms": 76.85
+        },
+        {
+          "timestamp": "2026-07-18T02:26:00Z",
+          "status": "up",
+          "response_ms": 82.23
+        },
+        {
+          "timestamp": "2026-07-18T02:36:00Z",
+          "status": "up",
+          "response_ms": 87.66
+        },
+        {
+          "timestamp": "2026-07-18T02:46:00Z",
+          "status": "up",
+          "response_ms": 93.1
+        },
+        {
+          "timestamp": "2026-07-18T02:56:00Z",
+          "status": "up",
+          "response_ms": 98.53
+        },
+        {
+          "timestamp": "2026-07-18T03:06:00Z",
+          "status": "up",
+          "response_ms": 88.92
+        },
+        {
+          "timestamp": "2026-07-18T03:16:00Z",
+          "status": "up",
+          "response_ms": 94.23
+        },
+        {
+          "timestamp": "2026-07-18T03:26:00Z",
+          "status": "up",
+          "response_ms": 99.44
+        },
+        {
+          "timestamp": "2026-07-18T03:36:00Z",
+          "status": "up",
+          "response_ms": 104.53
+        },
+        {
+          "timestamp": "2026-07-18T03:46:00Z",
+          "status": "up",
+          "response_ms": 109.45
+        },
+        {
+          "timestamp": "2026-07-18T03:56:00Z",
+          "status": "up",
+          "response_ms": 99.2
+        },
+        {
+          "timestamp": "2026-07-18T04:06:00Z",
+          "status": "up",
+          "response_ms": 103.75
+        },
+        {
+          "timestamp": "2026-07-18T04:16:00Z",
+          "status": "up",
+          "response_ms": 108.08
+        },
+        {
+          "timestamp": "2026-07-18T04:26:00Z",
+          "status": "up",
+          "response_ms": 112.18
+        },
+        {
+          "timestamp": "2026-07-18T04:36:00Z",
+          "status": "up",
+          "response_ms": 116.03
+        },
+        {
+          "timestamp": "2026-07-18T04:46:00Z",
+          "status": "up",
+          "response_ms": 104.62
+        },
+        {
+          "timestamp": "2026-07-18T04:56:00Z",
+          "status": "up",
+          "response_ms": 107.94
+        },
+        {
+          "timestamp": "2026-07-18T05:06:00Z",
+          "status": "up",
+          "response_ms": 110.99
+        },
+        {
+          "timestamp": "2026-07-18T05:16:00Z",
+          "status": "up",
+          "response_ms": 113.77
+        },
+        {
+          "timestamp": "2026-07-18T05:26:00Z",
+          "status": "up",
+          "response_ms": 116.28
+        },
+        {
+          "timestamp": "2026-07-18T05:36:00Z",
+          "status": "up",
+          "response_ms": 103.53
+        },
+        {
+          "timestamp": "2026-07-18T05:46:00Z",
+          "status": "up",
+          "response_ms": 105.52
+        },
+        {
+          "timestamp": "2026-07-18T05:56:00Z",
+          "status": "up",
+          "response_ms": 107.28
+        },
+        {
+          "timestamp": "2026-07-18T06:06:00Z",
+          "status": "up",
+          "response_ms": 108.8
+        },
+        {
+          "timestamp": "2026-07-18T06:16:00Z",
+          "status": "up",
+          "response_ms": 110.13
+        },
+        {
+          "timestamp": "2026-07-18T06:26:00Z",
+          "status": "up",
+          "response_ms": 96.26
+        },
+        {
+          "timestamp": "2026-07-18T06:36:00Z",
+          "status": "up",
+          "response_ms": 97.23
+        },
+        {
+          "timestamp": "2026-07-18T06:46:00Z",
+          "status": "up",
+          "response_ms": 98.07
+        },
+        {
+          "timestamp": "2026-07-18T06:56:00Z",
+          "status": "up",
+          "response_ms": 98.79
+        },
+        {
+          "timestamp": "2026-07-18T07:06:00Z",
+          "status": "up",
+          "response_ms": 99.43
+        },
+        {
+          "timestamp": "2026-07-18T07:16:00Z",
+          "status": "up",
+          "response_ms": 85.01
+        },
+        {
+          "timestamp": "2026-07-18T07:26:00Z",
+          "status": "up",
+          "response_ms": 85.57
+        },
+        {
+          "timestamp": "2026-07-18T07:36:00Z",
+          "status": "up",
+          "response_ms": 86.13
+        },
+        {
+          "timestamp": "2026-07-18T07:46:00Z",
+          "status": "up",
+          "response_ms": 86.73
+        },
+        {
+          "timestamp": "2026-07-18T07:56:00Z",
+          "status": "up",
+          "response_ms": 87.39
+        },
+        {
+          "timestamp": "2026-07-18T08:06:00Z",
+          "status": "up",
+          "response_ms": 73.15
+        },
+        {
+          "timestamp": "2026-07-18T08:16:00Z",
+          "status": "up",
+          "response_ms": 74.03
+        },
+        {
+          "timestamp": "2026-07-18T08:26:00Z",
+          "status": "up",
+          "response_ms": 75.06
+        },
+        {
+          "timestamp": "2026-07-18T08:36:00Z",
+          "status": "up",
+          "response_ms": 76.26
+        },
+        {
+          "timestamp": "2026-07-18T08:46:00Z",
+          "status": "up",
+          "response_ms": 77.65
+        },
+        {
+          "timestamp": "2026-07-18T08:56:00Z",
+          "status": "up",
+          "response_ms": 64.26
+        },
+        {
+          "timestamp": "2026-07-18T09:06:00Z",
+          "status": "up",
+          "response_ms": 66.1
+        },
+        {
+          "timestamp": "2026-07-18T09:16:00Z",
+          "status": "up",
+          "response_ms": 68.18
+        },
+        {
+          "timestamp": "2026-07-18T09:26:00Z",
+          "status": "up",
+          "response_ms": 70.52
+        },
+        {
+          "timestamp": "2026-07-18T09:36:00Z",
+          "status": "up",
+          "response_ms": 73.13
+        },
+        {
+          "timestamp": "2026-07-18T09:46:00Z",
+          "status": "up",
+          "response_ms": 61.0
+        },
+        {
+          "timestamp": "2026-07-18T09:56:00Z",
+          "status": "up",
+          "response_ms": 64.15
+        },
+        {
+          "timestamp": "2026-07-18T10:06:00Z",
+          "status": "up",
+          "response_ms": 67.56
+        },
+        {
+          "timestamp": "2026-07-18T10:16:00Z",
+          "status": "up",
+          "response_ms": 71.24
+        },
+        {
+          "timestamp": "2026-07-18T10:26:00Z",
+          "status": "up",
+          "response_ms": 75.18
+        },
+        {
+          "timestamp": "2026-07-18T10:36:00Z",
+          "status": "up",
+          "response_ms": 64.36
+        },
+        {
+          "timestamp": "2026-07-18T10:46:00Z",
+          "status": "up",
+          "response_ms": 68.77
+        },
+        {
+          "timestamp": "2026-07-18T10:56:00Z",
+          "status": "up",
+          "response_ms": 73.39
+        },
+        {
+          "timestamp": "2026-07-18T11:06:00Z",
+          "status": "up",
+          "response_ms": 78.21
+        },
+        {
+          "timestamp": "2026-07-18T11:16:00Z",
+          "status": "up",
+          "response_ms": 83.2
+        },
+        {
+          "timestamp": "2026-07-18T11:26:00Z",
+          "status": "up",
+          "response_ms": 73.33
+        },
+        {
+          "timestamp": "2026-07-18T11:36:00Z",
+          "status": "up",
+          "response_ms": 78.58
+        },
+        {
+          "timestamp": "2026-07-18T11:46:00Z",
+          "status": "up",
+          "response_ms": 83.92
+        },
+        {
+          "timestamp": "2026-07-18T11:56:00Z",
+          "status": "up",
+          "response_ms": 89.32
+        },
+        {
+          "timestamp": "2026-07-18T12:06:00Z",
+          "status": "up",
+          "response_ms": 94.76
+        },
+        {
+          "timestamp": "2026-07-18T12:16:00Z",
+          "status": "up",
+          "response_ms": 85.2
+        },
+        {
+          "timestamp": "2026-07-18T12:26:00Z",
+          "status": "up",
+          "response_ms": 90.62
+        },
+        {
+          "timestamp": "2026-07-18T12:36:00Z",
+          "status": "up",
+          "response_ms": 95.97
+        },
+        {
+          "timestamp": "2026-07-18T12:46:00Z",
+          "status": "up",
+          "response_ms": 101.24
+        },
+        {
+          "timestamp": "2026-07-18T12:56:00Z",
+          "status": "up",
+          "response_ms": 106.4
+        },
+        {
+          "timestamp": "2026-07-18T13:06:00Z",
+          "status": "up",
+          "response_ms": 96.42
+        },
+        {
+          "timestamp": "2026-07-18T13:16:00Z",
+          "status": "up",
+          "response_ms": 101.27
+        },
+        {
+          "timestamp": "2026-07-18T13:26:00Z",
+          "status": "up",
+          "response_ms": 105.93
+        },
+        {
+          "timestamp": "2026-07-18T13:36:00Z",
+          "status": "up",
+          "response_ms": 110.38
+        },
+        {
+          "timestamp": "2026-07-18T13:46:00Z",
+          "status": "up",
+          "response_ms": 114.61
+        },
+        {
+          "timestamp": "2026-07-18T13:56:00Z",
+          "status": "up",
+          "response_ms": 103.59
+        },
+        {
+          "timestamp": "2026-07-18T14:06:00Z",
+          "status": "up",
+          "response_ms": 107.33
+        },
+        {
+          "timestamp": "2026-07-18T14:16:00Z",
+          "status": "up",
+          "response_ms": 110.79
+        },
+        {
+          "timestamp": "2026-07-18T14:26:00Z",
+          "status": "up",
+          "response_ms": 113.99
+        },
+        {
+          "timestamp": "2026-07-18T14:36:00Z",
+          "status": "up",
+          "response_ms": 116.92
+        },
+        {
+          "timestamp": "2026-07-18T14:46:00Z",
+          "status": "up",
+          "response_ms": 104.58
+        },
+        {
+          "timestamp": "2026-07-18T14:56:00Z",
+          "status": "up",
+          "response_ms": 106.97
+        },
+        {
+          "timestamp": "2026-07-18T15:06:00Z",
+          "status": "up",
+          "response_ms": 109.1
+        },
+        {
+          "timestamp": "2026-07-18T15:16:00Z",
+          "status": "up",
+          "response_ms": 110.99
+        },
+        {
+          "timestamp": "2026-07-18T15:26:00Z",
+          "status": "up",
+          "response_ms": 112.64
+        },
+        {
+          "timestamp": "2026-07-18T15:36:00Z",
+          "status": "up",
+          "response_ms": 99.07
+        },
+        {
+          "timestamp": "2026-07-18T15:46:00Z",
+          "status": "up",
+          "response_ms": 100.31
+        },
+        {
+          "timestamp": "2026-07-18T15:56:00Z",
+          "status": "up",
+          "response_ms": 101.36
+        },
+        {
+          "timestamp": "2026-07-18T16:06:00Z",
+          "status": "up",
+          "response_ms": 102.27
+        },
+        {
+          "timestamp": "2026-07-18T16:16:00Z",
+          "status": "up",
+          "response_ms": 103.05
+        },
+        {
+          "timestamp": "2026-07-18T16:26:00Z",
+          "status": "up",
+          "response_ms": 88.73
+        },
+        {
+          "timestamp": "2026-07-18T16:36:00Z",
+          "status": "up",
+          "response_ms": 89.34
+        },
+        {
+          "timestamp": "2026-07-18T16:46:00Z",
+          "status": "up",
+          "response_ms": 89.91
+        },
+        {
+          "timestamp": "2026-07-18T16:56:00Z",
+          "status": "up",
+          "response_ms": 90.47
+        },
+        {
+          "timestamp": "2026-07-18T17:06:00Z",
+          "status": "up",
+          "response_ms": 91.04
+        },
+        {
+          "timestamp": "2026-07-18T17:16:00Z",
+          "status": "up",
+          "response_ms": 76.67
+        },
+        {
+          "timestamp": "2026-07-18T17:26:00Z",
+          "status": "up",
+          "response_ms": 77.37
+        },
+        {
+          "timestamp": "2026-07-18T17:36:00Z",
+          "status": "up",
+          "response_ms": 78.18
+        },
+        {
+          "timestamp": "2026-07-18T17:46:00Z",
+          "status": "up",
+          "response_ms": 79.12
+        },
+        {
+          "timestamp": "2026-07-18T17:56:00Z",
+          "status": "up",
+          "response_ms": 80.22
+        },
+        {
+          "timestamp": "2026-07-18T18:06:00Z",
+          "status": "up",
+          "response_ms": 66.51
+        },
+        {
+          "timestamp": "2026-07-18T18:16:00Z",
+          "status": "up",
+          "response_ms": 67.99
+        },
+        {
+          "timestamp": "2026-07-18T18:26:00Z",
+          "status": "up",
+          "response_ms": 69.7
+        },
+        {
+          "timestamp": "2026-07-18T18:36:00Z",
+          "status": "up",
+          "response_ms": 71.65
+        },
+        {
+          "timestamp": "2026-07-18T18:46:00Z",
+          "status": "up",
+          "response_ms": 73.85
+        },
+        {
+          "timestamp": "2026-07-18T18:56:00Z",
+          "status": "up",
+          "response_ms": 61.31
+        },
+        {
+          "timestamp": "2026-07-18T19:06:00Z",
+          "status": "up",
+          "response_ms": 64.04
+        },
+        {
+          "timestamp": "2026-07-18T19:16:00Z",
+          "status": "up",
+          "response_ms": 67.03
+        },
+        {
+          "timestamp": "2026-07-18T19:26:00Z",
+          "status": "up",
+          "response_ms": 70.3
+        }
+      ],
+      "hourly": []
+    },
+    "dns_edge": {
+      "raw": [
+        {
+          "timestamp": "2026-07-17T19:36:00Z",
+          "status": "up",
+          "response_ms": 56.91
+        },
+        {
+          "timestamp": "2026-07-17T19:46:00Z",
+          "status": "up",
+          "response_ms": 58.12
+        },
+        {
+          "timestamp": "2026-07-17T19:56:00Z",
+          "status": "up",
+          "response_ms": 59.17
+        },
+        {
+          "timestamp": "2026-07-17T20:06:00Z",
+          "status": "up",
+          "response_ms": 60.06
+        },
+        {
+          "timestamp": "2026-07-17T20:16:00Z",
+          "status": "up",
+          "response_ms": 60.83
+        },
+        {
+          "timestamp": "2026-07-17T20:26:00Z",
+          "status": "up",
+          "response_ms": 46.5
+        },
+        {
+          "timestamp": "2026-07-17T20:36:00Z",
+          "status": "up",
+          "response_ms": 47.1
+        },
+        {
+          "timestamp": "2026-07-17T20:46:00Z",
+          "status": "up",
+          "response_ms": 47.67
+        },
+        {
+          "timestamp": "2026-07-17T20:56:00Z",
+          "status": "up",
+          "response_ms": 48.23
+        },
+        {
+          "timestamp": "2026-07-17T21:06:00Z",
+          "status": "up",
+          "response_ms": 48.81
+        },
+        {
+          "timestamp": "2026-07-17T21:16:00Z",
+          "status": "up",
+          "response_ms": 34.44
+        },
+        {
+          "timestamp": "2026-07-17T21:26:00Z",
+          "status": "up",
+          "response_ms": 35.15
+        },
+        {
+          "timestamp": "2026-07-17T21:36:00Z",
+          "status": "up",
+          "response_ms": 35.97
+        },
+        {
+          "timestamp": "2026-07-17T21:46:00Z",
+          "status": "up",
+          "response_ms": 36.93
+        },
+        {
+          "timestamp": "2026-07-17T21:56:00Z",
+          "status": "up",
+          "response_ms": 38.05
+        },
+        {
+          "timestamp": "2026-07-17T22:06:00Z",
+          "status": "up",
+          "response_ms": 24.35
+        },
+        {
+          "timestamp": "2026-07-17T22:16:00Z",
+          "status": "up",
+          "response_ms": 25.86
+        },
+        {
+          "timestamp": "2026-07-17T22:26:00Z",
+          "status": "up",
+          "response_ms": 27.59
+        },
+        {
+          "timestamp": "2026-07-17T22:36:00Z",
+          "status": "up",
+          "response_ms": 29.56
+        },
+        {
+          "timestamp": "2026-07-17T22:46:00Z",
+          "status": "up",
+          "response_ms": 31.79
+        },
+        {
+          "timestamp": "2026-07-17T22:56:00Z",
+          "status": "up",
+          "response_ms": 19.27
+        },
+        {
+          "timestamp": "2026-07-17T23:06:00Z",
+          "status": "up",
+          "response_ms": 22.02
+        },
+        {
+          "timestamp": "2026-07-17T23:16:00Z",
+          "status": "up",
+          "response_ms": 25.05
+        },
+        {
+          "timestamp": "2026-07-17T23:26:00Z",
+          "status": "up",
+          "response_ms": 28.34
+        },
+        {
+          "timestamp": "2026-07-17T23:36:00Z",
+          "status": "up",
+          "response_ms": 31.9
+        },
+        {
+          "timestamp": "2026-07-17T23:46:00Z",
+          "status": "up",
+          "response_ms": 20.73
+        },
+        {
+          "timestamp": "2026-07-17T23:56:00Z",
+          "status": "up",
+          "response_ms": 24.8
+        },
+        {
+          "timestamp": "2026-07-18T00:06:00Z",
+          "status": "up",
+          "response_ms": 29.11
+        },
+        {
+          "timestamp": "2026-07-18T00:16:00Z",
+          "status": "up",
+          "response_ms": 33.64
+        },
+        {
+          "timestamp": "2026-07-18T00:26:00Z",
+          "status": "up",
+          "response_ms": 38.37
+        },
+        {
+          "timestamp": "2026-07-18T00:36:00Z",
+          "status": "up",
+          "response_ms": 28.28
+        },
+        {
+          "timestamp": "2026-07-18T00:46:00Z",
+          "status": "up",
+          "response_ms": 33.35
+        },
+        {
+          "timestamp": "2026-07-18T00:56:00Z",
+          "status": "up",
+          "response_ms": 38.55
+        },
+        {
+          "timestamp": "2026-07-18T01:06:00Z",
+          "status": "up",
+          "response_ms": 43.85
+        },
+        {
+          "timestamp": "2026-07-18T01:16:00Z",
+          "status": "up",
+          "response_ms": 49.23
+        },
+        {
+          "timestamp": "2026-07-18T01:26:00Z",
+          "status": "up",
+          "response_ms": 39.66
+        },
+        {
+          "timestamp": "2026-07-18T01:36:00Z",
+          "status": "up",
+          "response_ms": 45.1
+        },
+        {
+          "timestamp": "2026-07-18T01:46:00Z",
+          "status": "up",
+          "response_ms": 50.53
+        },
+        {
+          "timestamp": "2026-07-18T01:56:00Z",
+          "status": "up",
+          "response_ms": 55.92
+        },
+        {
+          "timestamp": "2026-07-18T02:06:00Z",
+          "status": "up",
+          "response_ms": 61.23
+        },
+        {
+          "timestamp": "2026-07-18T02:16:00Z",
+          "status": "up",
+          "response_ms": 51.44
+        },
+        {
+          "timestamp": "2026-07-18T02:26:00Z",
+          "status": "up",
+          "response_ms": 56.53
+        },
+        {
+          "timestamp": "2026-07-18T02:36:00Z",
+          "status": "up",
+          "response_ms": 61.45
+        },
+        {
+          "timestamp": "2026-07-18T02:46:00Z",
+          "status": "up",
+          "response_ms": 66.2
+        },
+        {
+          "timestamp": "2026-07-18T02:56:00Z",
+          "status": "up",
+          "response_ms": 70.75
+        },
+        {
+          "timestamp": "2026-07-18T03:06:00Z",
+          "status": "up",
+          "response_ms": 60.08
+        },
+        {
+          "timestamp": "2026-07-18T03:16:00Z",
+          "status": "up",
+          "response_ms": 64.18
+        },
+        {
+          "timestamp": "2026-07-18T03:26:00Z",
+          "status": "up",
+          "response_ms": 68.03
+        },
+        {
+          "timestamp": "2026-07-18T03:36:00Z",
+          "status": "up",
+          "response_ms": 71.62
+        },
+        {
+          "timestamp": "2026-07-18T03:46:00Z",
+          "status": "up",
+          "response_ms": 74.94
+        },
+        {
+          "timestamp": "2026-07-18T03:56:00Z",
+          "status": "up",
+          "response_ms": 62.99
+        },
+        {
+          "timestamp": "2026-07-18T04:06:00Z",
+          "status": "up",
+          "response_ms": 65.77
+        },
+        {
+          "timestamp": "2026-07-18T04:16:00Z",
+          "status": "up",
+          "response_ms": 68.28
+        },
+        {
+          "timestamp": "2026-07-18T04:26:00Z",
+          "status": "up",
+          "response_ms": 70.53
+        },
+        {
+          "timestamp": "2026-07-18T04:36:00Z",
+          "status": "up",
+          "response_ms": 72.52
+        },
+        {
+          "timestamp": "2026-07-18T04:46:00Z",
+          "status": "up",
+          "response_ms": 59.28
+        },
+        {
+          "timestamp": "2026-07-18T04:56:00Z",
+          "status": "up",
+          "response_ms": 60.8
+        },
+        {
+          "timestamp": "2026-07-18T05:06:00Z",
+          "status": "up",
+          "response_ms": 62.13
+        },
+        {
+          "timestamp": "2026-07-18T05:16:00Z",
+          "status": "up",
+          "response_ms": 63.26
+        },
+        {
+          "timestamp": "2026-07-18T05:26:00Z",
+          "status": "up",
+          "response_ms": 64.23
+        },
+        {
+          "timestamp": "2026-07-18T05:36:00Z",
+          "status": "up",
+          "response_ms": 50.07
+        },
+        {
+          "timestamp": "2026-07-18T05:46:00Z",
+          "status": "up",
+          "response_ms": 50.79
+        },
+        {
+          "timestamp": "2026-07-18T05:56:00Z",
+          "status": "up",
+          "response_ms": 51.43
+        },
+        {
+          "timestamp": "2026-07-18T06:06:00Z",
+          "status": "up",
+          "response_ms": 52.01
+        },
+        {
+          "timestamp": "2026-07-18T06:16:00Z",
+          "status": "up",
+          "response_ms": 52.57
+        },
+        {
+          "timestamp": "2026-07-18T06:26:00Z",
+          "status": "up",
+          "response_ms": 38.13
+        },
+        {
+          "timestamp": "2026-07-18T06:36:00Z",
+          "status": "up",
+          "response_ms": 38.73
+        },
+        {
+          "timestamp": "2026-07-18T06:46:00Z",
+          "status": "up",
+          "response_ms": 39.39
+        },
+        {
+          "timestamp": "2026-07-18T06:56:00Z",
+          "status": "up",
+          "response_ms": 40.15
+        },
+        {
+          "timestamp": "2026-07-18T07:06:00Z",
+          "status": "up",
+          "response_ms": 41.03
+        },
+        {
+          "timestamp": "2026-07-18T07:16:00Z",
+          "status": "up",
+          "response_ms": 27.06
+        },
+        {
+          "timestamp": "2026-07-18T07:26:00Z",
+          "status": "up",
+          "response_ms": 28.26
+        },
+        {
+          "timestamp": "2026-07-18T07:36:00Z",
+          "status": "up",
+          "response_ms": 29.65
+        },
+        {
+          "timestamp": "2026-07-18T07:46:00Z",
+          "status": "up",
+          "response_ms": 31.26
+        },
+        {
+          "timestamp": "2026-07-18T07:56:00Z",
+          "status": "up",
+          "response_ms": 33.1
+        },
+        {
+          "timestamp": "2026-07-18T08:06:00Z",
+          "status": "up",
+          "response_ms": 20.18
+        },
+        {
+          "timestamp": "2026-07-18T08:16:00Z",
+          "status": "up",
+          "response_ms": 22.52
+        },
+        {
+          "timestamp": "2026-07-18T08:26:00Z",
+          "status": "up",
+          "response_ms": 25.13
+        },
+        {
+          "timestamp": "2026-07-18T08:36:00Z",
+          "status": "up",
+          "response_ms": 28.0
+        },
+        {
+          "timestamp": "2026-07-18T08:46:00Z",
+          "status": "up",
+          "response_ms": 31.15
+        },
+        {
+          "timestamp": "2026-07-18T08:56:00Z",
+          "status": "up",
+          "response_ms": 19.56
+        },
+        {
+          "timestamp": "2026-07-18T09:06:00Z",
+          "status": "up",
+          "response_ms": 23.24
+        },
+        {
+          "timestamp": "2026-07-18T09:16:00Z",
+          "status": "up",
+          "response_ms": 27.18
+        },
+        {
+          "timestamp": "2026-07-18T09:26:00Z",
+          "status": "up",
+          "response_ms": 31.36
+        },
+        {
+          "timestamp": "2026-07-18T09:36:00Z",
+          "status": "up",
+          "response_ms": 35.77
+        },
+        {
+          "timestamp": "2026-07-18T09:46:00Z",
+          "status": "up",
+          "response_ms": 25.39
+        },
+        {
+          "timestamp": "2026-07-18T09:56:00Z",
+          "status": "up",
+          "response_ms": 30.21
+        },
+        {
+          "timestamp": "2026-07-18T10:06:00Z",
+          "status": "up",
+          "response_ms": 35.2
+        },
+        {
+          "timestamp": "2026-07-18T10:16:00Z",
+          "status": "up",
+          "response_ms": 40.33
+        },
+        {
+          "timestamp": "2026-07-18T10:26:00Z",
+          "status": "up",
+          "response_ms": 45.58
+        },
+        {
+          "timestamp": "2026-07-18T10:36:00Z",
+          "status": "up",
+          "response_ms": 35.92
+        },
+        {
+          "timestamp": "2026-07-18T10:46:00Z",
+          "status": "up",
+          "response_ms": 41.32
+        },
+        {
+          "timestamp": "2026-07-18T10:56:00Z",
+          "status": "up",
+          "response_ms": 46.76
+        },
+        {
+          "timestamp": "2026-07-18T11:06:00Z",
+          "status": "up",
+          "response_ms": 52.2
+        },
+        {
+          "timestamp": "2026-07-18T11:16:00Z",
+          "status": "up",
+          "response_ms": 57.62
+        },
+        {
+          "timestamp": "2026-07-18T11:26:00Z",
+          "status": "up",
+          "response_ms": 47.97
+        },
+        {
+          "timestamp": "2026-07-18T11:36:00Z",
+          "status": "up",
+          "response_ms": 53.24
+        },
+        {
+          "timestamp": "2026-07-18T11:46:00Z",
+          "status": "up",
+          "response_ms": 58.4
+        },
+        {
+          "timestamp": "2026-07-18T11:56:00Z",
+          "status": "up",
+          "response_ms": 63.42
+        },
+        {
+          "timestamp": "2026-07-18T12:06:00Z",
+          "status": "up",
+          "response_ms": 68.27
+        },
+        {
+          "timestamp": "2026-07-18T12:16:00Z",
+          "status": "up",
+          "response_ms": 57.93
+        },
+        {
+          "timestamp": "2026-07-18T12:26:00Z",
+          "status": "up",
+          "response_ms": 62.38
+        },
+        {
+          "timestamp": "2026-07-18T12:36:00Z",
+          "status": "up",
+          "response_ms": 66.61
+        },
+        {
+          "timestamp": "2026-07-18T12:46:00Z",
+          "status": "up",
+          "response_ms": 70.59
+        },
+        {
+          "timestamp": "2026-07-18T12:56:00Z",
+          "status": "up",
+          "response_ms": 74.33
+        },
+        {
+          "timestamp": "2026-07-18T13:06:00Z",
+          "status": "up",
+          "response_ms": 62.79
+        },
+        {
+          "timestamp": "2026-07-18T13:16:00Z",
+          "status": "up",
+          "response_ms": 65.99
+        },
+        {
+          "timestamp": "2026-07-18T13:26:00Z",
+          "status": "up",
+          "response_ms": 68.92
+        },
+        {
+          "timestamp": "2026-07-18T13:36:00Z",
+          "status": "up",
+          "response_ms": 71.58
+        },
+        {
+          "timestamp": "2026-07-18T13:46:00Z",
+          "status": "up",
+          "response_ms": 73.97
+        },
+        {
+          "timestamp": "2026-07-18T13:56:00Z",
+          "status": "up",
+          "response_ms": 61.1
+        },
+        {
+          "timestamp": "2026-07-18T14:06:00Z",
+          "status": "up",
+          "response_ms": 62.99
+        },
+        {
+          "timestamp": "2026-07-18T14:16:00Z",
+          "status": "up",
+          "response_ms": 64.64
+        },
+        {
+          "timestamp": "2026-07-18T14:26:00Z",
+          "status": "up",
+          "response_ms": 66.07
+        },
+        {
+          "timestamp": "2026-07-18T14:36:00Z",
+          "status": "up",
+          "response_ms": 67.31
+        },
+        {
+          "timestamp": "2026-07-18T14:46:00Z",
+          "status": "up",
+          "response_ms": 53.36
+        },
+        {
+          "timestamp": "2026-07-18T14:56:00Z",
+          "status": "up",
+          "response_ms": 54.27
+        },
+        {
+          "timestamp": "2026-07-18T15:06:00Z",
+          "status": "up",
+          "response_ms": 55.05
+        },
+        {
+          "timestamp": "2026-07-18T15:16:00Z",
+          "status": "up",
+          "response_ms": 55.73
+        },
+        {
+          "timestamp": "2026-07-18T15:26:00Z",
+          "status": "up",
+          "response_ms": 56.34
+        },
+        {
+          "timestamp": "2026-07-18T15:36:00Z",
+          "status": "up",
+          "response_ms": 41.91
+        },
+        {
+          "timestamp": "2026-07-18T15:46:00Z",
+          "status": "up",
+          "response_ms": 42.47
+        },
+        {
+          "timestamp": "2026-07-18T15:56:00Z",
+          "status": "up",
+          "response_ms": 43.04
+        },
+        {
+          "timestamp": "2026-07-18T16:06:00Z",
+          "status": "up",
+          "response_ms": 43.67
+        },
+        {
+          "timestamp": "2026-07-18T16:16:00Z",
+          "status": "up",
+          "response_ms": 44.37
+        },
+        {
+          "timestamp": "2026-07-18T16:26:00Z",
+          "status": "up",
+          "response_ms": 30.18
+        },
+        {
+          "timestamp": "2026-07-18T16:36:00Z",
+          "status": "up",
+          "response_ms": 31.12
+        },
+        {
+          "timestamp": "2026-07-18T16:46:00Z",
+          "status": "up",
+          "response_ms": 32.22
+        },
+        {
+          "timestamp": "2026-07-18T16:56:00Z",
+          "status": "up",
+          "response_ms": 33.51
+        },
+        {
+          "timestamp": "2026-07-18T17:06:00Z",
+          "status": "up",
+          "response_ms": 34.99
+        },
+        {
+          "timestamp": "2026-07-18T17:16:00Z",
+          "status": "up",
+          "response_ms": 21.7
+        },
+        {
+          "timestamp": "2026-07-18T17:26:00Z",
+          "status": "up",
+          "response_ms": 23.65
+        },
+        {
+          "timestamp": "2026-07-18T17:36:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T17:46:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T17:56:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T18:06:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T18:16:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T18:26:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T18:36:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T18:46:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T18:56:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T19:06:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T19:16:00Z",
+          "status": "down",
+          "response_ms": null
+        },
+        {
+          "timestamp": "2026-07-18T19:26:00Z",
+          "status": "down",
+          "response_ms": null
+        }
+      ],
+      "hourly": []
+    },
+    "gateway_https": {
+      "raw": [
+        {
+          "timestamp": "2026-07-17T19:36:00Z",
+          "status": "up",
+          "response_ms": 72.67
+        },
+        {
+          "timestamp": "2026-07-17T19:46:00Z",
+          "status": "up",
+          "response_ms": 73.23
+        },
+        {
+          "timestamp": "2026-07-17T19:56:00Z",
+          "status": "up",
+          "response_ms": 73.81
+        },
+        {
+          "timestamp": "2026-07-17T20:06:00Z",
+          "status": "up",
+          "response_ms": 74.44
+        },
+        {
+          "timestamp": "2026-07-17T20:16:00Z",
+          "status": "up",
+          "response_ms": 75.15
+        },
+        {
+          "timestamp": "2026-07-17T20:26:00Z",
+          "status": "up",
+          "response_ms": 60.97
+        },
+        {
+          "timestamp": "2026-07-17T20:36:00Z",
+          "status": "up",
+          "response_ms": 61.93
+        },
+        {
+          "timestamp": "2026-07-17T20:46:00Z",
+          "status": "up",
+          "response_ms": 63.05
+        },
+        {
+          "timestamp": "2026-07-17T20:56:00Z",
+          "status": "up",
+          "response_ms": 64.35
+        },
+        {
+          "timestamp": "2026-07-17T21:06:00Z",
+          "status": "up",
+          "response_ms": 65.86
+        },
+        {
+          "timestamp": "2026-07-17T21:16:00Z",
+          "status": "up",
+          "response_ms": 52.59
+        },
+        {
+          "timestamp": "2026-07-17T21:26:00Z",
+          "status": "up",
+          "response_ms": 54.56
+        },
+        {
+          "timestamp": "2026-07-17T21:36:00Z",
+          "status": "up",
+          "response_ms": 56.79
+        },
+        {
+          "timestamp": "2026-07-17T21:46:00Z",
+          "status": "up",
+          "response_ms": 59.27
+        },
+        {
+          "timestamp": "2026-07-17T21:56:00Z",
+          "status": "up",
+          "response_ms": 62.02
+        },
+        {
+          "timestamp": "2026-07-17T22:06:00Z",
+          "status": "up",
+          "response_ms": 50.05
+        },
+        {
+          "timestamp": "2026-07-17T22:16:00Z",
+          "status": "up",
+          "response_ms": 53.34
+        },
+        {
+          "timestamp": "2026-07-17T22:26:00Z",
+          "status": "up",
+          "response_ms": 56.9
+        },
+        {
+          "timestamp": "2026-07-17T22:36:00Z",
+          "status": "up",
+          "response_ms": 60.73
+        },
+        {
+          "timestamp": "2026-07-17T22:46:00Z",
+          "status": "up",
+          "response_ms": 64.8
+        },
+        {
+          "timestamp": "2026-07-17T22:56:00Z",
+          "status": "up",
+          "response_ms": 54.11
+        },
+        {
+          "timestamp": "2026-07-17T23:06:00Z",
+          "status": "up",
+          "response_ms": 58.64
+        },
+        {
+          "timestamp": "2026-07-17T23:16:00Z",
+          "status": "up",
+          "response_ms": 63.37
+        },
+        {
+          "timestamp": "2026-07-17T23:26:00Z",
+          "status": "up",
+          "response_ms": 68.28
+        },
+        {
+          "timestamp": "2026-07-17T23:36:00Z",
+          "status": "up",
+          "response_ms": 73.35
+        },
+        {
+          "timestamp": "2026-07-17T23:46:00Z",
+          "status": "up",
+          "response_ms": 63.55
+        },
+        {
+          "timestamp": "2026-07-17T23:56:00Z",
+          "status": "up",
+          "response_ms": 68.85
+        },
+        {
+          "timestamp": "2026-07-18T00:06:00Z",
+          "status": "up",
+          "response_ms": 74.23
+        },
+        {
+          "timestamp": "2026-07-18T00:16:00Z",
+          "status": "up",
+          "response_ms": 79.66
+        },
+        {
+          "timestamp": "2026-07-18T00:26:00Z",
+          "status": "up",
+          "response_ms": 85.1
+        },
+        {
+          "timestamp": "2026-07-18T00:36:00Z",
+          "status": "up",
+          "response_ms": 75.53
+        },
+        {
+          "timestamp": "2026-07-18T00:46:00Z",
+          "status": "up",
+          "response_ms": 80.92
+        },
+        {
+          "timestamp": "2026-07-18T00:56:00Z",
+          "status": "up",
+          "response_ms": 86.23
+        },
+        {
+          "timestamp": "2026-07-18T01:06:00Z",
+          "status": "up",
+          "response_ms": 91.44
+        },
+        {
+          "timestamp": "2026-07-18T01:16:00Z",
+          "status": "up",
+          "response_ms": 96.53
+        },
+        {
+          "timestamp": "2026-07-18T01:26:00Z",
+          "status": "up",
+          "response_ms": 86.45
+        },
+        {
+          "timestamp": "2026-07-18T01:36:00Z",
+          "status": "up",
+          "response_ms": 91.2
+        },
+        {
+          "timestamp": "2026-07-18T01:46:00Z",
+          "status": "up",
+          "response_ms": 95.75
+        },
+        {
+          "timestamp": "2026-07-18T01:56:00Z",
+          "status": "up",
+          "response_ms": 100.08
+        },
+        {
+          "timestamp": "2026-07-18T02:06:00Z",
+          "status": "up",
+          "response_ms": 104.18
+        },
+        {
+          "timestamp": "2026-07-18T02:16:00Z",
+          "status": "up",
+          "response_ms": 93.03
+        },
+        {
+          "timestamp": "2026-07-18T02:26:00Z",
+          "status": "up",
+          "response_ms": 96.62
+        },
+        {
+          "timestamp": "2026-07-18T02:36:00Z",
+          "status": "up",
+          "response_ms": 99.94
+        },
+        {
+          "timestamp": "2026-07-18T02:46:00Z",
+          "status": "up",
+          "response_ms": 102.99
+        },
+        {
+          "timestamp": "2026-07-18T02:56:00Z",
+          "status": "up",
+          "response_ms": 105.77
+        },
+        {
+          "timestamp": "2026-07-18T03:06:00Z",
+          "status": "up",
+          "response_ms": 93.28
+        },
+        {
+          "timestamp": "2026-07-18T03:16:00Z",
+          "status": "up",
+          "response_ms": 95.53
+        },
+        {
+          "timestamp": "2026-07-18T03:26:00Z",
+          "status": "up",
+          "response_ms": 97.52
+        },
+        {
+          "timestamp": "2026-07-18T03:36:00Z",
+          "status": "up",
+          "response_ms": 99.28
+        },
+        {
+          "timestamp": "2026-07-18T03:46:00Z",
+          "status": "up",
+          "response_ms": 100.8
+        },
+        {
+          "timestamp": "2026-07-18T03:56:00Z",
+          "status": "up",
+          "response_ms": 87.13
+        },
+        {
+          "timestamp": "2026-07-18T04:06:00Z",
+          "status": "up",
+          "response_ms": 88.26
+        },
+        {
+          "timestamp": "2026-07-18T04:16:00Z",
+          "status": "up",
+          "response_ms": 89.23
+        },
+        {
+          "timestamp": "2026-07-18T04:26:00Z",
+          "status": "up",
+          "response_ms": 90.07
+        },
+        {
+          "timestamp": "2026-07-18T04:36:00Z",
+          "status": "up",
+          "response_ms": 90.79
+        },
+        {
+          "timestamp": "2026-07-18T04:46:00Z",
+          "status": "up",
+          "response_ms": 76.43
+        },
+        {
+          "timestamp": "2026-07-18T04:56:00Z",
+          "status": "up",
+          "response_ms": 77.01
+        },
+        {
+          "timestamp": "2026-07-18T05:06:00Z",
+          "status": "up",
+          "response_ms": 77.57
+        },
+        {
+          "timestamp": "2026-07-18T05:16:00Z",
+          "status": "up",
+          "response_ms": 78.13
+        },
+        {
+          "timestamp": "2026-07-18T05:26:00Z",
+          "status": "up",
+          "response_ms": 78.73
+        },
+        {
+          "timestamp": "2026-07-18T05:36:00Z",
+          "status": "up",
+          "response_ms": 64.39
+        },
+        {
+          "timestamp": "2026-07-18T05:46:00Z",
+          "status": "up",
+          "response_ms": 65.15
+        },
+        {
+          "timestamp": "2026-07-18T05:56:00Z",
+          "status": "up",
+          "response_ms": 66.03
+        },
+        {
+          "timestamp": "2026-07-18T06:06:00Z",
+          "status": "up",
+          "response_ms": 67.06
+        },
+        {
+          "timestamp": "2026-07-18T06:16:00Z",
+          "status": "up",
+          "response_ms": 68.26
+        },
+        {
+          "timestamp": "2026-07-18T06:26:00Z",
+          "status": "up",
+          "response_ms": 54.65
+        },
+        {
+          "timestamp": "2026-07-18T06:36:00Z",
+          "status": "up",
+          "response_ms": 56.26
+        },
+        {
+          "timestamp": "2026-07-18T06:46:00Z",
+          "status": "up",
+          "response_ms": 58.1
+        },
+        {
+          "timestamp": "2026-07-18T06:56:00Z",
+          "status": "up",
+          "response_ms": 60.18
+        },
+        {
+          "timestamp": "2026-07-18T07:06:00Z",
+          "status": "up",
+          "response_ms": 62.52
+        },
+        {
+          "timestamp": "2026-07-18T07:16:00Z",
+          "status": "up",
+          "response_ms": 50.13
+        },
+        {
+          "timestamp": "2026-07-18T07:26:00Z",
+          "status": "up",
+          "response_ms": 53.0
+        },
+        {
+          "timestamp": "2026-07-18T07:36:00Z",
+          "status": "up",
+          "response_ms": 56.15
+        },
+        {
+          "timestamp": "2026-07-18T07:46:00Z",
+          "status": "up",
+          "response_ms": 59.56
+        },
+        {
+          "timestamp": "2026-07-18T07:56:00Z",
+          "status": "up",
+          "response_ms": 63.24
+        },
+        {
+          "timestamp": "2026-07-18T08:06:00Z",
+          "status": "up",
+          "response_ms": 52.18
+        },
+        {
+          "timestamp": "2026-07-18T08:16:00Z",
+          "status": "up",
+          "response_ms": 56.36
+        },
+        {
+          "timestamp": "2026-07-18T08:26:00Z",
+          "status": "up",
+          "response_ms": 60.77
+        },
+        {
+          "timestamp": "2026-07-18T08:36:00Z",
+          "status": "up",
+          "response_ms": 65.39
+        },
+        {
+          "timestamp": "2026-07-18T08:46:00Z",
+          "status": "up",
+          "response_ms": 70.21
+        },
+        {
+          "timestamp": "2026-07-18T08:56:00Z",
+          "status": "up",
+          "response_ms": 60.2
+        },
+        {
+          "timestamp": "2026-07-18T09:06:00Z",
+          "status": "up",
+          "response_ms": 65.33
+        },
+        {
+          "timestamp": "2026-07-18T09:16:00Z",
+          "status": "up",
+          "response_ms": 70.58
+        },
+        {
+          "timestamp": "2026-07-18T09:26:00Z",
+          "status": "up",
+          "response_ms": 75.92
+        },
+        {
+          "timestamp": "2026-07-18T09:36:00Z",
+          "status": "up",
+          "response_ms": 81.32
+        },
+        {
+          "timestamp": "2026-07-18T09:46:00Z",
+          "status": "up",
+          "response_ms": 71.76
+        },
+        {
+          "timestamp": "2026-07-18T09:56:00Z",
+          "status": "up",
+          "response_ms": 77.2
+        },
+        {
+          "timestamp": "2026-07-18T10:06:00Z",
+          "status": "up",
+          "response_ms": 82.62
+        },
+        {
+          "timestamp": "2026-07-18T10:16:00Z",
+          "status": "up",
+          "response_ms": 87.97
+        },
+        {
+          "timestamp": "2026-07-18T10:26:00Z",
+          "status": "up",
+          "response_ms": 93.24
+        },
+        {
+          "timestamp": "2026-07-18T10:36:00Z",
+          "status": "up",
+          "response_ms": 83.4
+        },
+        {
+          "timestamp": "2026-07-18T10:46:00Z",
+          "status": "up",
+          "response_ms": 88.42
+        },
+        {
+          "timestamp": "2026-07-18T10:56:00Z",
+          "status": "up",
+          "response_ms": 93.27
+        },
+        {
+          "timestamp": "2026-07-18T11:06:00Z",
+          "status": "up",
+          "response_ms": 97.93
+        },
+        {
+          "timestamp": "2026-07-18T11:16:00Z",
+          "status": "up",
+          "response_ms": 102.38
+        },
+        {
+          "timestamp": "2026-07-18T11:26:00Z",
+          "status": "up",
+          "response_ms": 91.61
+        },
+        {
+          "timestamp": "2026-07-18T11:36:00Z",
+          "status": "up",
+          "response_ms": 95.59
+        },
+        {
+          "timestamp": "2026-07-18T11:46:00Z",
+          "status": "up",
+          "response_ms": 99.33
+        },
+        {
+          "timestamp": "2026-07-18T11:56:00Z",
+          "status": "up",
+          "response_ms": 102.79
+        },
+        {
+          "timestamp": "2026-07-18T12:06:00Z",
+          "status": "up",
+          "response_ms": 105.99
+        },
+        {
+          "timestamp": "2026-07-18T12:16:00Z",
+          "status": "up",
+          "response_ms": 93.92
+        },
+        {
+          "timestamp": "2026-07-18T12:26:00Z",
+          "status": "up",
+          "response_ms": 96.58
+        },
+        {
+          "timestamp": "2026-07-18T12:36:00Z",
+          "status": "up",
+          "response_ms": 98.97
+        },
+        {
+          "timestamp": "2026-07-18T12:46:00Z",
+          "status": "up",
+          "response_ms": 101.1
+        },
+        {
+          "timestamp": "2026-07-18T12:56:00Z",
+          "status": "up",
+          "response_ms": 102.99
+        },
+        {
+          "timestamp": "2026-07-18T13:06:00Z",
+          "status": "up",
+          "response_ms": 89.64
+        },
+        {
+          "timestamp": "2026-07-18T13:16:00Z",
+          "status": "up",
+          "response_ms": 91.07
+        },
+        {
+          "timestamp": "2026-07-18T13:26:00Z",
+          "status": "up",
+          "response_ms": 92.31
+        },
+        {
+          "timestamp": "2026-07-18T13:36:00Z",
+          "status": "up",
+          "response_ms": 93.36
+        },
+        {
+          "timestamp": "2026-07-18T13:46:00Z",
+          "status": "up",
+          "response_ms": 94.27
+        },
+        {
+          "timestamp": "2026-07-18T13:56:00Z",
+          "status": "up",
+          "response_ms": 80.05
+        },
+        {
+          "timestamp": "2026-07-18T14:06:00Z",
+          "status": "up",
+          "response_ms": 80.73
+        },
+        {
+          "timestamp": "2026-07-18T14:16:00Z",
+          "status": "up",
+          "response_ms": 81.34
+        },
+        {
+          "timestamp": "2026-07-18T14:26:00Z",
+          "status": "up",
+          "response_ms": 81.91
+        },
+        {
+          "timestamp": "2026-07-18T14:36:00Z",
+          "status": "up",
+          "response_ms": 82.47
+        },
+        {
+          "timestamp": "2026-07-18T14:46:00Z",
+          "status": "up",
+          "response_ms": 68.04
+        },
+        {
+          "timestamp": "2026-07-18T14:56:00Z",
+          "status": "up",
+          "response_ms": 68.67
+        },
+        {
+          "timestamp": "2026-07-18T15:06:00Z",
+          "status": "up",
+          "response_ms": 69.37
+        },
+        {
+          "timestamp": "2026-07-18T15:16:00Z",
+          "status": "up",
+          "response_ms": 70.18
+        },
+        {
+          "timestamp": "2026-07-18T15:26:00Z",
+          "status": "up",
+          "response_ms": 71.12
+        },
+        {
+          "timestamp": "2026-07-18T15:36:00Z",
+          "status": "up",
+          "response_ms": 57.22
+        },
+        {
+          "timestamp": "2026-07-18T15:46:00Z",
+          "status": "up",
+          "response_ms": 58.51
+        },
+        {
+          "timestamp": "2026-07-18T15:56:00Z",
+          "status": "up",
+          "response_ms": 59.99
+        },
+        {
+          "timestamp": "2026-07-18T16:06:00Z",
+          "status": "up",
+          "response_ms": 61.7
+        },
+        {
+          "timestamp": "2026-07-18T16:16:00Z",
+          "status": "up",
+          "response_ms": 63.65
+        },
+        {
+          "timestamp": "2026-07-18T16:26:00Z",
+          "status": "up",
+          "response_ms": 50.85
+        },
+        {
+          "timestamp": "2026-07-18T16:36:00Z",
+          "status": "maintenance",
+          "response_ms": 53.31
+        },
+        {
+          "timestamp": "2026-07-18T16:46:00Z",
+          "status": "maintenance",
+          "response_ms": 56.04
+        },
+        {
+          "timestamp": "2026-07-18T16:56:00Z",
+          "status": "maintenance",
+          "response_ms": 59.03
+        },
+        {
+          "timestamp": "2026-07-18T17:06:00Z",
+          "status": "maintenance",
+          "response_ms": 62.3
+        },
+        {
+          "timestamp": "2026-07-18T17:16:00Z",
+          "status": "maintenance",
+          "response_ms": 50.84
+        },
+        {
+          "timestamp": "2026-07-18T17:26:00Z",
+          "status": "maintenance",
+          "response_ms": 54.63
+        },
+        {
+          "timestamp": "2026-07-18T17:36:00Z",
+          "status": "maintenance",
+          "response_ms": 58.68
+        },
+        {
+          "timestamp": "2026-07-18T17:46:00Z",
+          "status": "maintenance",
+          "response_ms": 62.97
+        },
+        {
+          "timestamp": "2026-07-18T17:56:00Z",
+          "status": "maintenance",
+          "response_ms": 67.48
+        },
+        {
+          "timestamp": "2026-07-18T18:06:00Z",
+          "status": "maintenance",
+          "response_ms": 57.19
+        },
+        {
+          "timestamp": "2026-07-18T18:16:00Z",
+          "status": "maintenance",
+          "response_ms": 62.09
+        },
+        {
+          "timestamp": "2026-07-18T18:26:00Z",
+          "status": "maintenance",
+          "response_ms": 67.14
+        },
+        {
+          "timestamp": "2026-07-18T18:36:00Z",
+          "status": "maintenance",
+          "response_ms": 72.33
+        },
+        {
+          "timestamp": "2026-07-18T18:46:00Z",
+          "status": "maintenance",
+          "response_ms": 77.62
+        },
+        {
+          "timestamp": "2026-07-18T18:56:00Z",
+          "status": "maintenance",
+          "response_ms": 68.0
+        },
+        {
+          "timestamp": "2026-07-18T19:06:00Z",
+          "status": "maintenance",
+          "response_ms": 73.42
+        },
+        {
+          "timestamp": "2026-07-18T19:16:00Z",
+          "status": "maintenance",
+          "response_ms": 78.87
+        },
+        {
+          "timestamp": "2026-07-18T19:26:00Z",
+          "status": "maintenance",
+          "response_ms": 84.3
+        }
+      ],
+      "hourly": []
+    },
+    "certificado_web": {
+      "raw": [
+        {
+          "timestamp": "2026-07-17T19:36:00Z",
+          "status": "up",
+          "response_ms": 141.05
+        },
+        {
+          "timestamp": "2026-07-17T19:46:00Z",
+          "status": "up",
+          "response_ms": 142.35
+        },
+        {
+          "timestamp": "2026-07-17T19:56:00Z",
+          "status": "up",
+          "response_ms": 143.86
+        },
+        {
+          "timestamp": "2026-07-17T20:06:00Z",
+          "status": "up",
+          "response_ms": 145.59
+        },
+        {
+          "timestamp": "2026-07-17T20:16:00Z",
+          "status": "up",
+          "response_ms": 147.56
+        },
+        {
+          "timestamp": "2026-07-17T20:26:00Z",
+          "status": "up",
+          "response_ms": 134.79
+        },
+        {
+          "timestamp": "2026-07-17T20:36:00Z",
+          "status": "up",
+          "response_ms": 137.27
+        },
+        {
+          "timestamp": "2026-07-17T20:46:00Z",
+          "status": "up",
+          "response_ms": 140.02
+        },
+        {
+          "timestamp": "2026-07-17T20:56:00Z",
+          "status": "up",
+          "response_ms": 143.05
+        },
+        {
+          "timestamp": "2026-07-17T21:06:00Z",
+          "status": "up",
+          "response_ms": 146.34
+        },
+        {
+          "timestamp": "2026-07-17T21:16:00Z",
+          "status": "up",
+          "response_ms": 134.9
+        },
+        {
+          "timestamp": "2026-07-17T21:26:00Z",
+          "status": "up",
+          "response_ms": 138.73
+        },
+        {
+          "timestamp": "2026-07-17T21:36:00Z",
+          "status": "up",
+          "response_ms": 142.8
+        },
+        {
+          "timestamp": "2026-07-17T21:46:00Z",
+          "status": "up",
+          "response_ms": 147.11
+        },
+        {
+          "timestamp": "2026-07-17T21:56:00Z",
+          "status": "up",
+          "response_ms": 151.64
+        },
+        {
+          "timestamp": "2026-07-17T22:06:00Z",
+          "status": "up",
+          "response_ms": 141.37
+        },
+        {
+          "timestamp": "2026-07-17T22:16:00Z",
+          "status": "up",
+          "response_ms": 146.28
+        },
+        {
+          "timestamp": "2026-07-17T22:26:00Z",
+          "status": "up",
+          "response_ms": 151.35
+        },
+        {
+          "timestamp": "2026-07-17T22:36:00Z",
+          "status": "up",
+          "response_ms": 156.55
+        },
+        {
+          "timestamp": "2026-07-17T22:46:00Z",
+          "status": "up",
+          "response_ms": 161.85
+        },
+        {
+          "timestamp": "2026-07-17T22:56:00Z",
+          "status": "up",
+          "response_ms": 152.23
+        },
+        {
+          "timestamp": "2026-07-17T23:06:00Z",
+          "status": "up",
+          "response_ms": 157.66
+        },
+        {
+          "timestamp": "2026-07-17T23:16:00Z",
+          "status": "up",
+          "response_ms": 163.1
+        },
+        {
+          "timestamp": "2026-07-17T23:26:00Z",
+          "status": "up",
+          "response_ms": 168.53
+        },
+        {
+          "timestamp": "2026-07-17T23:36:00Z",
+          "status": "up",
+          "response_ms": 173.92
+        },
+        {
+          "timestamp": "2026-07-17T23:46:00Z",
+          "status": "up",
+          "response_ms": 164.23
+        },
+        {
+          "timestamp": "2026-07-17T23:56:00Z",
+          "status": "up",
+          "response_ms": 169.44
+        },
+        {
+          "timestamp": "2026-07-18T00:06:00Z",
+          "status": "up",
+          "response_ms": 174.53
+        },
+        {
+          "timestamp": "2026-07-18T00:16:00Z",
+          "status": "up",
+          "response_ms": 179.45
+        },
+        {
+          "timestamp": "2026-07-18T00:26:00Z",
+          "status": "up",
+          "response_ms": 184.2
+        },
+        {
+          "timestamp": "2026-07-18T00:36:00Z",
+          "status": "up",
+          "response_ms": 173.75
+        },
+        {
+          "timestamp": "2026-07-18T00:46:00Z",
+          "status": "up",
+          "response_ms": 178.08
+        },
+        {
+          "timestamp": "2026-07-18T00:56:00Z",
+          "status": "up",
+          "response_ms": 182.18
+        },
+        {
+          "timestamp": "2026-07-18T01:06:00Z",
+          "status": "up",
+          "response_ms": 186.03
+        },
+        {
+          "timestamp": "2026-07-18T01:16:00Z",
+          "status": "up",
+          "response_ms": 189.62
+        },
+        {
+          "timestamp": "2026-07-18T01:26:00Z",
+          "status": "up",
+          "response_ms": 177.94
+        },
+        {
+          "timestamp": "2026-07-18T01:36:00Z",
+          "status": "up",
+          "response_ms": 180.99
+        },
+        {
+          "timestamp": "2026-07-18T01:46:00Z",
+          "status": "up",
+          "response_ms": 183.77
+        },
+        {
+          "timestamp": "2026-07-18T01:56:00Z",
+          "status": "up",
+          "response_ms": 186.28
+        },
+        {
+          "timestamp": "2026-07-18T02:06:00Z",
+          "status": "up",
+          "response_ms": 188.53
+        },
+        {
+          "timestamp": "2026-07-18T02:16:00Z",
+          "status": "up",
+          "response_ms": 175.52
+        },
+        {
+          "timestamp": "2026-07-18T02:26:00Z",
+          "status": "up",
+          "response_ms": 177.28
+        },
+        {
+          "timestamp": "2026-07-18T02:36:00Z",
+          "status": "up",
+          "response_ms": 178.8
+        },
+        {
+          "timestamp": "2026-07-18T02:46:00Z",
+          "status": "up",
+          "response_ms": 180.13
+        },
+        {
+          "timestamp": "2026-07-18T02:56:00Z",
+          "status": "up",
+          "response_ms": 181.26
+        },
+        {
+          "timestamp": "2026-07-18T03:06:00Z",
+          "status": "up",
+          "response_ms": 167.23
+        },
+        {
+          "timestamp": "2026-07-18T03:16:00Z",
+          "status": "up",
+          "response_ms": 168.07
+        },
+        {
+          "timestamp": "2026-07-18T03:26:00Z",
+          "status": "up",
+          "response_ms": 168.79
+        },
+        {
+          "timestamp": "2026-07-18T03:36:00Z",
+          "status": "up",
+          "response_ms": 169.43
+        },
+        {
+          "timestamp": "2026-07-18T03:46:00Z",
+          "status": "up",
+          "response_ms": 170.01
+        },
+        {
+          "timestamp": "2026-07-18T03:56:00Z",
+          "status": "up",
+          "response_ms": 155.57
+        },
+        {
+          "timestamp": "2026-07-18T04:06:00Z",
+          "status": "up",
+          "response_ms": 156.13
+        },
+        {
+          "timestamp": "2026-07-18T04:16:00Z",
+          "status": "up",
+          "response_ms": 156.73
+        },
+        {
+          "timestamp": "2026-07-18T04:26:00Z",
+          "status": "up",
+          "response_ms": 157.39
+        },
+        {
+          "timestamp": "2026-07-18T04:36:00Z",
+          "status": "up",
+          "response_ms": 158.15
+        },
+        {
+          "timestamp": "2026-07-18T04:46:00Z",
+          "status": "up",
+          "response_ms": 144.03
+        },
+        {
+          "timestamp": "2026-07-18T04:56:00Z",
+          "status": "up",
+          "response_ms": 145.06
+        },
+        {
+          "timestamp": "2026-07-18T05:06:00Z",
+          "status": "up",
+          "response_ms": 146.26
+        },
+        {
+          "timestamp": "2026-07-18T05:16:00Z",
+          "status": "up",
+          "response_ms": 147.65
+        },
+        {
+          "timestamp": "2026-07-18T05:26:00Z",
+          "status": "up",
+          "response_ms": 149.26
+        },
+        {
+          "timestamp": "2026-07-18T05:36:00Z",
+          "status": "up",
+          "response_ms": 136.1
+        },
+        {
+          "timestamp": "2026-07-18T05:46:00Z",
+          "status": "up",
+          "response_ms": 138.18
+        },
+        {
+          "timestamp": "2026-07-18T05:56:00Z",
+          "status": "up",
+          "response_ms": 140.52
+        },
+        {
+          "timestamp": "2026-07-18T06:06:00Z",
+          "status": "up",
+          "response_ms": 143.13
+        },
+        {
+          "timestamp": "2026-07-18T06:16:00Z",
+          "status": "up",
+          "response_ms": 146.0
+        },
+        {
+          "timestamp": "2026-07-18T06:26:00Z",
+          "status": "up",
+          "response_ms": 134.15
+        },
+        {
+          "timestamp": "2026-07-18T06:36:00Z",
+          "status": "up",
+          "response_ms": 137.56
+        },
+        {
+          "timestamp": "2026-07-18T06:46:00Z",
+          "status": "up",
+          "response_ms": 141.24
+        },
+        {
+          "timestamp": "2026-07-18T06:56:00Z",
+          "status": "up",
+          "response_ms": 145.18
+        },
+        {
+          "timestamp": "2026-07-18T07:06:00Z",
+          "status": "up",
+          "response_ms": 149.36
+        },
+        {
+          "timestamp": "2026-07-18T07:16:00Z",
+          "status": "up",
+          "response_ms": 138.77
+        },
+        {
+          "timestamp": "2026-07-18T07:26:00Z",
+          "status": "up",
+          "response_ms": 143.39
+        },
+        {
+          "timestamp": "2026-07-18T07:36:00Z",
+          "status": "up",
+          "response_ms": 148.21
+        },
+        {
+          "timestamp": "2026-07-18T07:46:00Z",
+          "status": "up",
+          "response_ms": 153.2
+        },
+        {
+          "timestamp": "2026-07-18T07:56:00Z",
+          "status": "up",
+          "response_ms": 158.33
+        },
+        {
+          "timestamp": "2026-07-18T08:06:00Z",
+          "status": "up",
+          "response_ms": 148.58
+        },
+        {
+          "timestamp": "2026-07-18T08:16:00Z",
+          "status": "up",
+          "response_ms": 153.92
+        },
+        {
+          "timestamp": "2026-07-18T08:26:00Z",
+          "status": "up",
+          "response_ms": 159.32
+        },
+        {
+          "timestamp": "2026-07-18T08:36:00Z",
+          "status": "up",
+          "response_ms": 164.76
+        },
+        {
+          "timestamp": "2026-07-18T08:46:00Z",
+          "status": "up",
+          "response_ms": 170.2
+        },
+        {
+          "timestamp": "2026-07-18T08:56:00Z",
+          "status": "up",
+          "response_ms": 160.62
+        },
+        {
+          "timestamp": "2026-07-18T09:06:00Z",
+          "status": "up",
+          "response_ms": 165.97
+        },
+        {
+          "timestamp": "2026-07-18T09:16:00Z",
+          "status": "up",
+          "response_ms": 171.24
+        },
+        {
+          "timestamp": "2026-07-18T09:26:00Z",
+          "status": "up",
+          "response_ms": 176.4
+        },
+        {
+          "timestamp": "2026-07-18T09:36:00Z",
+          "status": "up",
+          "response_ms": 181.42
+        },
+        {
+          "timestamp": "2026-07-18T09:46:00Z",
+          "status": "up",
+          "response_ms": 171.27
+        },
+        {
+          "timestamp": "2026-07-18T09:56:00Z",
+          "status": "up",
+          "response_ms": 175.93
+        },
+        {
+          "timestamp": "2026-07-18T10:06:00Z",
+          "status": "up",
+          "response_ms": 180.38
+        },
+        {
+          "timestamp": "2026-07-18T10:16:00Z",
+          "status": "up",
+          "response_ms": 184.61
+        },
+        {
+          "timestamp": "2026-07-18T10:26:00Z",
+          "status": "up",
+          "response_ms": 188.59
+        },
+        {
+          "timestamp": "2026-07-18T10:36:00Z",
+          "status": "up",
+          "response_ms": 177.33
+        },
+        {
+          "timestamp": "2026-07-18T10:46:00Z",
+          "status": "up",
+          "response_ms": 180.79
+        },
+        {
+          "timestamp": "2026-07-18T10:56:00Z",
+          "status": "up",
+          "response_ms": 183.99
+        },
+        {
+          "timestamp": "2026-07-18T11:06:00Z",
+          "status": "up",
+          "response_ms": 186.92
+        },
+        {
+          "timestamp": "2026-07-18T11:16:00Z",
+          "status": "up",
+          "response_ms": 189.58
+        },
+        {
+          "timestamp": "2026-07-18T11:26:00Z",
+          "status": "up",
+          "response_ms": 176.97
+        },
+        {
+          "timestamp": "2026-07-18T11:36:00Z",
+          "status": "up",
+          "response_ms": 179.1
+        },
+        {
+          "timestamp": "2026-07-18T11:46:00Z",
+          "status": "up",
+          "response_ms": 180.99
+        },
+        {
+          "timestamp": "2026-07-18T11:56:00Z",
+          "status": "up",
+          "response_ms": 182.64
+        },
+        {
+          "timestamp": "2026-07-18T12:06:00Z",
+          "status": "up",
+          "response_ms": 184.07
+        },
+        {
+          "timestamp": "2026-07-18T12:16:00Z",
+          "status": "up",
+          "response_ms": 170.31
+        },
+        {
+          "timestamp": "2026-07-18T12:26:00Z",
+          "status": "up",
+          "response_ms": 171.36
+        },
+        {
+          "timestamp": "2026-07-18T12:36:00Z",
+          "status": "up",
+          "response_ms": 172.27
+        },
+        {
+          "timestamp": "2026-07-18T12:46:00Z",
+          "status": "up",
+          "response_ms": 173.05
+        },
+        {
+          "timestamp": "2026-07-18T12:56:00Z",
+          "status": "up",
+          "response_ms": 173.73
+        },
+        {
+          "timestamp": "2026-07-18T13:06:00Z",
+          "status": "up",
+          "response_ms": 159.34
+        },
+        {
+          "timestamp": "2026-07-18T13:16:00Z",
+          "status": "up",
+          "response_ms": 159.91
+        },
+        {
+          "timestamp": "2026-07-18T13:26:00Z",
+          "status": "up",
+          "response_ms": 160.47
+        },
+        {
+          "timestamp": "2026-07-18T13:36:00Z",
+          "status": "up",
+          "response_ms": 161.04
+        },
+        {
+          "timestamp": "2026-07-18T13:46:00Z",
+          "status": "up",
+          "response_ms": 161.67
+        },
+        {
+          "timestamp": "2026-07-18T13:56:00Z",
+          "status": "up",
+          "response_ms": 147.37
+        },
+        {
+          "timestamp": "2026-07-18T14:06:00Z",
+          "status": "up",
+          "response_ms": 148.18
+        },
+        {
+          "timestamp": "2026-07-18T14:16:00Z",
+          "status": "up",
+          "response_ms": 149.12
+        },
+        {
+          "timestamp": "2026-07-18T14:26:00Z",
+          "status": "up",
+          "response_ms": 150.22
+        },
+        {
+          "timestamp": "2026-07-18T14:36:00Z",
+          "status": "up",
+          "response_ms": 151.51
+        },
+        {
+          "timestamp": "2026-07-18T14:46:00Z",
+          "status": "up",
+          "response_ms": 137.99
+        },
+        {
+          "timestamp": "2026-07-18T14:56:00Z",
+          "status": "up",
+          "response_ms": 139.7
+        },
+        {
+          "timestamp": "2026-07-18T15:06:00Z",
+          "status": "up",
+          "response_ms": 141.65
+        },
+        {
+          "timestamp": "2026-07-18T15:16:00Z",
+          "status": "up",
+          "response_ms": 143.85
+        },
+        {
+          "timestamp": "2026-07-18T15:26:00Z",
+          "status": "up",
+          "response_ms": 146.31
+        },
+        {
+          "timestamp": "2026-07-18T15:36:00Z",
+          "status": "degraded",
+          "response_ms": 134.04
+        },
+        {
+          "timestamp": "2026-07-18T15:46:00Z",
+          "status": "degraded",
+          "response_ms": 137.03
+        },
+        {
+          "timestamp": "2026-07-18T15:56:00Z",
+          "status": "degraded",
+          "response_ms": 140.3
+        },
+        {
+          "timestamp": "2026-07-18T16:06:00Z",
+          "status": "degraded",
+          "response_ms": 143.84
+        },
+        {
+          "timestamp": "2026-07-18T16:16:00Z",
+          "status": "degraded",
+          "response_ms": 147.63
+        },
+        {
+          "timestamp": "2026-07-18T16:26:00Z",
+          "status": "degraded",
+          "response_ms": 136.68
+        },
+        {
+          "timestamp": "2026-07-18T16:36:00Z",
+          "status": "degraded",
+          "response_ms": 140.97
+        },
+        {
+          "timestamp": "2026-07-18T16:46:00Z",
+          "status": "degraded",
+          "response_ms": 145.48
+        },
+        {
+          "timestamp": "2026-07-18T16:56:00Z",
+          "status": "degraded",
+          "response_ms": 150.19
+        },
+        {
+          "timestamp": "2026-07-18T17:06:00Z",
+          "status": "degraded",
+          "response_ms": 155.09
+        },
+        {
+          "timestamp": "2026-07-18T17:16:00Z",
+          "status": "degraded",
+          "response_ms": 145.14
+        },
+        {
+          "timestamp": "2026-07-18T17:26:00Z",
+          "status": "degraded",
+          "response_ms": 150.33
+        },
+        {
+          "timestamp": "2026-07-18T17:36:00Z",
+          "status": "degraded",
+          "response_ms": 155.62
+        },
+        {
+          "timestamp": "2026-07-18T17:46:00Z",
+          "status": "degraded",
+          "response_ms": 161.0
+        },
+        {
+          "timestamp": "2026-07-18T17:56:00Z",
+          "status": "degraded",
+          "response_ms": 166.42
+        },
+        {
+          "timestamp": "2026-07-18T18:06:00Z",
+          "status": "degraded",
+          "response_ms": 156.87
+        },
+        {
+          "timestamp": "2026-07-18T18:16:00Z",
+          "status": "degraded",
+          "response_ms": 162.3
+        },
+        {
+          "timestamp": "2026-07-18T18:26:00Z",
+          "status": "degraded",
+          "response_ms": 167.69
+        },
+        {
+          "timestamp": "2026-07-18T18:36:00Z",
+          "status": "degraded",
+          "response_ms": 173.01
+        },
+        {
+          "timestamp": "2026-07-18T18:46:00Z",
+          "status": "degraded",
+          "response_ms": 178.23
+        },
+        {
+          "timestamp": "2026-07-18T18:56:00Z",
+          "status": "degraded",
+          "response_ms": 168.33
+        },
+        {
+          "timestamp": "2026-07-18T19:06:00Z",
+          "status": "degraded",
+          "response_ms": 173.27
+        },
+        {
+          "timestamp": "2026-07-18T19:16:00Z",
+          "status": "degraded",
+          "response_ms": 178.04
+        },
+        {
+          "timestamp": "2026-07-18T19:26:00Z",
+          "status": "degraded",
+          "response_ms": 182.61
+        }
+      ],
+      "hourly": []
+    }
+  }
+}
