@@ -1,0 +1,20 @@
+schema_version: 1
+
+settings:
+  timezone: America/Sao_Paulo
+  default_timeout_seconds: 8
+  default_failure_threshold: 2
+  default_recovery_threshold: 1
+  max_concurrency: 10
+  raw_history_hours: 24
+  hourly_history_days: 30
+  incident_retention_days: 90
+  notifications_enabled: false
+
+monitors:
+  - id: example_site
+    name: Site de exemplo
+    group: Web
+    type: http
+    url: https://example.com
+    expected_status: [200]

@@ -1,0 +1,66 @@
+schema_version: 1
+
+settings:
+  timezone: America/Sao_Paulo
+  default_timeout_seconds: 8
+  default_failure_threshold: 2
+  default_recovery_threshold: 1
+  max_concurrency: 10
+  raw_history_hours: 24
+  hourly_history_days: 30
+  incident_retention_days: 90
+  notifications_enabled: true
+
+monitors:
+  - id: github_web
+    name: GitHub Web
+    group: Serviços públicos
+    type: http
+    description: Disponibilidade da página pública do GitHub.
+    url: https://github.com
+    method: GET
+    expected_status: [200]
+
+  - id: open_meteo_api
+    name: API Open-Meteo
+    group: APIs
+    type: json
+    description: Leitura pública de temperatura na API Open-Meteo.
+    url: https://api.open-meteo.com/v1/forecast?latitude=-4.96&longitude=-39.01&current=temperature_2m
+    json_path: current.temperature_2m
+    assertion: exists
+
+  - id: github_keyword
+    name: Conteúdo do GitHub
+    group: Serviços públicos
+    type: keyword
+    description: Confirma a presença da marca na página pública.
+    url: https://github.com
+    keyword: GitHub
+    expectation: present
+    case_sensitive: false
+
+  - id: github_dns
+    name: DNS do GitHub
+    group: Infraestrutura
+    type: dns
+    description: Resolução pública IPv4 e IPv6 do domínio.
+    host: github.com
+
+  - id: github_https
+    name: HTTPS do GitHub
+    group: Infraestrutura
+    type: tcp
+    description: Conectividade TCP pública na porta HTTPS.
+    host: github.com
+    port: 443
+
+  - id: github_certificate
+    name: Certificado do GitHub
+    group: Segurança
+    type: tls
+    description: Validade e cadeia do certificado TLS público.
+    host: github.com
+    port: 443
+    warning_days: 30
+    critical_days: 7
