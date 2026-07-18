@@ -2,14 +2,14 @@
 
 Painel serverless de disponibilidade, latência e incidentes, executado periodicamente pelo GitHub Actions e publicado como site estático no GitHub Pages.
 
-![CI validado localmente](https://img.shields.io/badge/CI-localmente%20validado-2DD4A7?style=flat-square)
-![GitHub Pages pronto](https://img.shields.io/badge/GitHub%20Pages-pronto%20para%20deploy-32D3FF?style=flat-square)
+[![CI](https://github.com/jctech9/netpulse-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/jctech9/netpulse-monitor/actions/workflows/ci.yml)
+[![GitHub Pages](https://github.com/jctech9/netpulse-monitor/actions/workflows/monitor-and-deploy.yml/badge.svg)](https://github.com/jctech9/netpulse-monitor/actions/workflows/monitor-and-deploy.yml)
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue-3-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ![Painel NetPulse com dados seguros de demonstração](docs/images/netpulse-dashboard.png)
 
-> A demonstração pública será indicada aqui somente depois que o deployment for executado e validado. O projeto local já pode ser explorado com os dados seguros da CLI `demo`.
+**Demonstração pública validada:** [jctech9.github.io/netpulse-monitor](https://jctech9.github.io/netpulse-monitor/)
 
 ## Visão geral
 
