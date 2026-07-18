@@ -1,0 +1,114 @@
+name: Monitor and deploy
+
+on:
+  schedule:
+    - cron: "3,13,23,33,43,53 * * * *"
+      timezone: "America/Sao_Paulo"
+  workflow_dispatch:
+    inputs:
+      telegram_summary:
+        description: "Enviar também um resumo manual pelo Telegram"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: netpulse-pages
+  cancel-in-progress: false
+
+jobs:
+  monitor-build-deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Configure Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      - name: Configure Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Install monitor
+        run: python -m pip install -e .
+
+      - name: Restore auxiliary state cache
+        id: state-cache
+        uses: actions/cache/restore@v5
+        with:
+          path: .cache-backup/netpulse-state.json
+          key: netpulse-state-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            netpulse-state-${{ runner.os }}-
+
+      - name: Restore published state, cache fallback, or empty state
+        run: >-
+          python scripts/restore_previous_data.py
+          --site-url "https://jctech9.github.io/netpulse-monitor/"
+          --state .cache/netpulse-state.json
+          --cache-state .cache-backup/netpulse-state.json
+
+      - name: Validate configuration
+        run: python -m netpulse.cli validate-config --config config/monitors.yml
+
+      - name: Run monitors and generate public data
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: >-
+          python -m netpulse.cli check
+          --config config/monitors.yml
+          --state .cache/netpulse-state.json
+          --output frontend/public/data
+          ${{ inputs.telegram_summary && '--summary-telegram' || '' }}
+
+      - name: Validate public JSON
+        run: python scripts/prepare_pages_data.py frontend/public/data
+
+      - name: Install frontend dependencies
+        working-directory: frontend
+        run: npm ci
+
+      - name: Build static site
+        working-directory: frontend
+        run: npm run build
+
+      - name: Prepare state backup
+        run: |
+          mkdir -p .cache-backup
+          cp .cache/netpulse-state.json .cache-backup/netpulse-state.json
+
+      - name: Save auxiliary state cache
+        uses: actions/cache/save@v5
+        with:
+          path: .cache-backup/netpulse-state.json
+          key: netpulse-state-${{ runner.os }}-${{ github.run_id }}
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: frontend/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
