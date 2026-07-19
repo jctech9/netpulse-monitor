@@ -64,3 +64,140 @@ monitors:
     port: 443
     warning_days: 30
     critical_days: 7
+
+  - id: google_web
+    name: Google
+    group: Serviços globais
+    type: keyword
+    description: Disponibilidade da página pública de busca do Google.
+    url: https://www.google.com
+    keyword: Google
+    expectation: present
+    case_sensitive: false
+
+  - id: wikipedia_web
+    name: Wikipedia
+    group: Serviços globais
+    type: keyword
+    description: Disponibilidade e conteúdo da página pública da Wikipedia.
+    url: https://www.wikipedia.org
+    keyword: Wikipedia
+    expectation: present
+    case_sensitive: false
+
+  - id: github_status
+    name: Status oficial do GitHub
+    group: Status de provedores
+    type: json
+    description: Indicador agregado publicado pela página oficial de status do GitHub.
+    url: https://www.githubstatus.com/api/v2/status.json
+    json_path: status.indicator
+    assertion: equals
+    expected_value: none
+
+  - id: cloudflare_status
+    name: Status oficial da Cloudflare
+    group: Status de provedores
+    type: json
+    description: Indicador agregado publicado pela página oficial de status da Cloudflare.
+    url: https://www.cloudflarestatus.com/api/v2/status.json
+    json_path: status.indicator
+    assertion: equals
+    expected_value: none
+
+  - id: google_cloud_status
+    name: Status do Google Cloud
+    group: Status de provedores
+    type: http
+    description: Disponibilidade do feed público de incidentes do Google Cloud.
+    url: https://status.cloud.google.com/incidents.json
+    method: GET
+    expected_status: [200]
+
+  - id: npm_registry
+    name: Registry npm
+    group: Ecossistema de desenvolvimento
+    type: http
+    description: Disponibilidade do endpoint público de verificação do registry npm.
+    url: https://registry.npmjs.org/-/ping
+    method: GET
+    expected_status: [200]
+
+  - id: pypi_httpx
+    name: PyPI
+    group: Ecossistema de desenvolvimento
+    type: json
+    description: Disponibilidade do PyPI por meio dos metadados públicos do HTTPX.
+    url: https://pypi.org/pypi/httpx/json
+    json_path: info.name
+    assertion: equals
+    expected_value: httpx
+
+  - id: govbr_web
+    name: Portal GOV.BR
+    group: Serviços públicos brasileiros
+    type: keyword
+    description: Disponibilidade e conteúdo do portal de serviços do Governo Federal.
+    url: https://www.gov.br/pt-br
+    keyword: gov.br
+    expectation: present
+    case_sensitive: false
+
+  - id: bcb_web
+    name: Banco Central do Brasil
+    group: Serviços públicos brasileiros
+    type: keyword
+    description: Disponibilidade e conteúdo da página pública do Banco Central.
+    url: https://www.bcb.gov.br
+    keyword: Banco Central do Brasil
+    expectation: present
+    case_sensitive: false
+
+  - id: correios_web
+    name: Correios
+    group: Serviços públicos brasileiros
+    type: keyword
+    description: Disponibilidade e conteúdo da página pública dos Correios.
+    url: https://www.correios.com.br
+    keyword: Correios
+    expectation: present
+    case_sensitive: false
+
+  - id: ibge_api
+    name: API de localidades do IBGE
+    group: Serviços públicos brasileiros
+    type: json
+    description: Consulta pública do estado de São Paulo na API de localidades do IBGE.
+    url: https://servicodados.ibge.gov.br/api/v1/localidades/estados/SP
+    json_path: sigla
+    assertion: equals
+    expected_value: SP
+
+  - id: viacep_api
+    name: API ViaCEP
+    group: Serviços públicos brasileiros
+    type: json
+    description: Consulta pública de um CEP de referência na API ViaCEP.
+    url: https://viacep.com.br/ws/01001000/json/
+    json_path: cep
+    assertion: equals
+    expected_value: "01001-000"
+
+  - id: dados_gov_web
+    name: Portal Brasileiro de Dados Abertos
+    group: Serviços públicos brasileiros
+    type: http
+    description: Disponibilidade do Portal Brasileiro de Dados Abertos.
+    url: https://dados.gov.br
+    method: GET
+    expected_status: [200]
+
+  - id: sus_dados_abertos
+    name: Portal de Dados Abertos do SUS
+    group: Serviços públicos brasileiros
+    type: keyword
+    description: Disponibilidade e conteúdo do portal público de dados do SUS.
+    url: https://dadosabertos.saude.gov.br
+    keyword: Dados Abertos
+    expectation: present
+    case_sensitive: false

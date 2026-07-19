@@ -7,7 +7,28 @@ from netpulse.models import AppConfig
 
 def test_loads_public_configuration() -> None:
     config = load_config(Path("config/monitors.yml"))
-    assert len(config.monitors) == 6
+    assert {monitor.id for monitor in config.monitors} == {
+        "bcb_web",
+        "cloudflare_status",
+        "correios_web",
+        "dados_gov_web",
+        "github_certificate",
+        "github_dns",
+        "github_https",
+        "github_keyword",
+        "github_status",
+        "github_web",
+        "google_cloud_status",
+        "google_web",
+        "govbr_web",
+        "ibge_api",
+        "npm_registry",
+        "open_meteo_api",
+        "pypi_httpx",
+        "sus_dados_abertos",
+        "viacep_api",
+        "wikipedia_web",
+    }
     assert {monitor.type for monitor in config.monitors} == {
         "http",
         "json",
